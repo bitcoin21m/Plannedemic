@@ -1,0 +1,1300 @@
+{
+    "sections": [{
+        "id": 1,
+        "name": "Pharmaceutical Industry",
+        "types": [
+            {
+                "id": 1,
+                "type": "Corruption",
+                "articles": [
+                    {
+                        "date": "12/23/2020",
+                        "title": "The Pharmaceuticals Have Zero Liability: Under the Public Readiness and Emergency Preparedness Act",
+                        "subTitle": [],
+                        "content": ["https://www.cnbc.com/2020/12/16/covid-vaccine-side-effects-compensation-lawsuit.html"]
+                    },
+                    {
+                        "date": "07/11/19",
+                        "title": "The FDA and pharmaceuticals are a revolving door and to assume there's no corruption or backroom deals between regulatory agencies and pharma is naive when there's 100's of billions of dollars potentially at stake",
+                        "subTitle": [],
+                        "content": ["https://thehill.com/blogs/congress-blog/politics/452654-for-big-pharma-the-revolving-door-keeps-spinning"]
+                    },
+                    {
+                        "date": "11/03/2003",
+                        "title": "This article shows the outright bias and corruption between the regulators (FDA) and the pharmaceutical companies. This alone, should make anyone skeptical of this injection.",
+                        "subTitle": [],
+                        "content": ["https://www.pbs.org/wgbh/pages/frontline/shows/prescription/hazard/independent.html"]
+                    },
+                    {
+                        "date": "12/01/2016",
+                        "title": "FDA Depends on Industry Funding; Money Comes with “Strings Attached”",
+                        "subTitle": [],
+                        "content": ["https://www.pogo.org/investigation/2016/12/fda-depends-on-industry-funding-money-comes-with-strings-attached/"]
+                    },
+                    {
+                        "date": "07/05/2018",
+                        "title": "Majority of doctors who oversee FDA drug approval receive payments from companies they monitor, report shows",
+                        "subTitle": [],
+                        "content": ["https://www.independent.co.uk/news/world/americas/fda-drugs-companies-pharmaceutical-us-pay-doctors-approval-fompanies-astrazeneca-a8433621.html"]
+                    },
+                    {
+                        "date": "05/21/2021",
+                        "title": "Almost Half of the FDA's Funding Comes From Manufacturers/Drug-Makers That Are Regulated By The FDA - Nearly half the agency's budget now comes from 'user fees' paid by companies seeking approval for medical devices or drugs (But I'm sure there's no kick-backs or backroom deals at all...)",
+                        "subTitle": [],
+                        "content": ["https://today.uconn.edu/2021/05/why-is-the-fda-funded-in-part-by-the-companies-it-regulates-2/"]
+                    },
+                    {
+                        "date": "04/18/2021",
+                        "title": "More than 2 times more people died in San Francisco from drug overdoses than COVID",
+                        "subTitle": [],
+                        "content": ["https://www.zerohedge.com/covid-19/san-francisco-drug-overdoses-claimed-twice-many-lives-covid-19"]
+                    },
+                    {
+                        "date": "12/17/2020",
+                        "title": "CDC Put Out An Emergency Report With A Concerning Amount of Overdose Deaths Between March 2020-May2020 (During the peak of lockdowns. But remember, government loves you and cares about your health)",
+                        "subTitle": [],
+                        "content": ["https://emergency.cdc.gov/han/2020/pdf/CDC-HAN-00438.pdf"]
+                    },
+                    {
+                        "date": "07/14/2021",
+                        "title": "US Overdose Deaths Hit A Record 93,000 in 2020, a 29% Increase",
+                        "subTitle": [],
+                        "content": ["https://apnews.com/article/overdose-deaths-record-covid-pandemic-fd43b5d91a81179def5ac596253b0304?utm_medium=AP&utm_source=Twitter&utm_campaign=SocialFlow"]
+                    },
+                    {
+                        "date": "10/13/2012",
+                        "title": "Drugs That Were Deemed Safe By The FDA, Later Recalled",
+                        "subTitle": [],
+                        "content": ["http://www.drugsdb.com/blog/fda-approved-drugs-pulled-from-market.html"]
+                    },
+                    {
+                        "date": "07/21/2021",
+                        "title": "Pfizer Halted The Distribution of Anti-Smoking Drug, Chantix, After Finding High Levels of a Cancer-Causing Agent in the Medication (But we're to trust them releasing the most rushed/untested product in their history",
+                        "subTitle": [],
+                        "content": ["https://www.fox26houston.com/news/pfizer-halts-distribution-of-anti-smoking-drug-chantix-after-finding-carcinogen?taid=60f5e0ccb881cc0001a15765&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter"]
+                    },
+                    {
+                        "date": "04/01/2021",
+                        "title": "J&J \"vaccine\" messed up 15 million doses by mixing ingredients",
+                        "subTitle": [],
+                        "content": ["https://childrenshealthdefense.org/defender/johnson-johnson-astrazeneca-covid-vaccine-ingredient-mix-up/"]
+                    },
+                    {
+                        "date": "06/11/2021",
+                        "title": "J&J: ANOTHER 60 Million Doses Tainted",
+                        "subTitle": [],
+                        "content": ["https://www.zerohedge.com/covid-19/another-60mm-jj-doses-produced-troubled-baltimore-plant-are-tainted-fda-says"]
+                    },
+                    {
+                        "date": "04/13/2021",
+                        "title": "J&J all doses have been halted in US due to blood clot reaction worries",
+                        "subTitle": [],
+                        "content": ["https://www.zerohedge.com/covid-19/fda-halts-use-jnj-covid-jab-after-6-cases-deadly-rare-blood-clots-identified"]
+                    },
+                    {
+                        "date": "10/18/2019",
+                        "title": "J&J has never made a vaccine and has been fined billions for bad behavior",
+                        "subTitle": [],
+                        "content": ["https://www.theguardian.com/business/2019/oct/18/johnson-and-johnson-opioids-lawsuits-product-recalls"]
+                    },
+                    {
+                        "date": "05/20/2020",
+                        "title": "J&J lawsuits from women claiming ovarian cancer from tal-based baby powder (But it was deemed safe for decades...I'm sure the \"vaccine\" is safe though...)",
+                        "subTitle": [],
+                        "content": ["https://www.cnn.com/2020/05/20/health/johnson-and-johnson-stops-selling-talc-based-baby-powder-trnd/index.html"]
+                    },
+                    {
+                        "date": "09/02/2019",
+                        "title": "Pfizer has been fined and settled billions for criminal behavior - As part of its illegal marketing, Pfizer invited doctors to consultant meetings at resort locations, paying their expenses and providing perks, prosecutors said. “They were entertained with golf, massages, and other activities,” said Mike Loucks, the U.S. attorney in Massachusetts.",
+                        "subTitle": [],
+                        "content": ["https://abcnews.go.com/Business/pfizer-fined-23-billion-illegal-marketing-off-label/story?id=8477617"]
+                    },
+                    {
+                        "date": "08/07/2019",
+                        "title": "Pharma Has a History of Paying off Doctors and Research Scientists",
+                        "subTitle": [],
+                        "content": ["https://www.usatoday.com/story/news/investigations/2019/08/07/biologic-drug-makers-pay-doctors-prescriptions/1943331001/"]
+                    },
+                    {
+                        "date": "04/15/2021",
+                        "title": "Pfizer says a 3rd shot will be needed to combat variants (Money, Money, Money!)",
+                        "subTitle": [],
+                        "content": ["https://www.zerohedge.com/markets/3rd-dose-pfizers-covid-vaccine-likely-needed-combat-mutant-covid-strains-ceo-says"]
+                    },
+                    {
+                        "date": "04/14/2021",
+                        "title": "Moderna says booster shot needs to be done for variants (Money, Money, Money!)",
+                        "subTitle": [],
+                        "content": ["https://www.cnbc.com/2021/04/14/covid-vaccine-moderna-hopes-to-have-booster-shot-ready-by-the-fall-says-ceo.html"]
+                    },
+                    {
+                        "date": "12/19/2020",
+                        "title": "Moderna has never brought a successful product to market (never gone passed clinical trials)",
+                        "subTitle": [],
+                        "content": ["https://fortune.com/2020/11/19/moderna-vaccine-distribution-lonza-swiss/"]
+                    },
+                    {
+                        "date": "03/16/2021",
+                        "title": "AstraZeneca's \"vaccine\" suspended in 18 countries over concerns of possible blood clot side effects",
+                        "subTitle": [],
+                        "content": ["https://www.businessinsider.com/astrazeneca-covid-vaccine-countries-suspend-denmark-thailand-batch-blood-clots-2021-3?op=1"]
+                    },
+                    {
+                        "date": "2004, 2005, 2012, 2016",
+                        "title": "Prior studies of vaccines against SARS and MERS (2004, 2005, 2012, 2016) Showed After Injection of Vaccine and Then Reintroduction of Virus, The Animals Were More Susceptible to The Virus. (This is what A.D.E. is. See ADE section for more details)",
+                        "subTitle": [],
+                        "content": ["https://www.ncbi.nlm.nih.gov/pmc/articles/PMC525089/",
+                            "https://www.nature.com/news/2005/050110/full/050110-3.html#ref-CR1",
+                            "https://www.pnas.org/content/102/3/797",
+                            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3335060/",
+                            "https://www.tandfonline.com/doi/full/10.1080/21645515.2016.1177688?scroll=top&needAccess=true"
+                        ]
+                    },
+                    {
+                        "date": "12/2020",
+                        "title": "Pfizer and Moderna's FDA Briefing Documents (The documents used to get Emergency Authorization) - Important Sections In the Document:",
+                        "subTitle": [
+                            "There are currently insufficient data to make conclusions about the safety of the \"vaccine\" in subpopulations such as children less than 16 years of age, pregnant and lactating individuals, and immunocompromised individuals.",
+                            "Available data do not indicate a risk of vaccine-enhanced disease, and conversely suggest effectiveness against severe disease within the available follow-up period. However, risk of vaccine-enhanced disease over time, potentially associated with waning immunity, remains unknown and needs to be evaluated further in ongoing clinical trials and in observational studies that could be conducted following authorization and/or licensure (So they admitted in the document to the FDA that they weren't sure about A.D.E. and now we are seeing it widespread)"
+                        ],
+                        "content": ["https://www.fda.gov/media/144245/download", "https://www.fda.gov/media/144434/download"]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "type": "Testing",
+                "articles": [
+                    {
+                        "date": "12/01/2020",
+                        "title": "Most PCR tests have a cycle threshold of at least 35 (Fauci himself said in a video if you have 35 cycles, everything will be positive)",
+                        "subTitle": [],
+                        "content": ["https://odysee.com/@ABraveNewNormal:a/fauci:4"]
+                    },
+                    {
+                        "date": "08/29/2020",
+                        "title": "NY Times: \"Your COVID test is positive. Maybe it Shouldn't Have Been\"",
+                        "subTitle": [],
+                        "content": ["https://www.nytimes.com/2020/08/29/health/coronavirus-testing.html"]
+                    },
+                    {
+                        "date": "01/20/2021",
+                        "title": "The very day Biden was put in office, the WHO came out with an announcement that the PCR tests should not be used to diagnose COVID and it should be used as an aid and that further testing needs to be done to determine the diagnosis and to lower the cycle threshold",
+                        "subTitle": [],
+                        "content": ["https://www.who.int/news/item/20-01-2021-who-information-notice-for-ivd-users-2020-05"]
+                    },
+                    {
+                        "date": "12/23/2020",
+                        "title": "WHO changes definition of \"Herd Immunity\". Instead of Immunity through EITHER natural immunity or vaccination, they changed it to only through vaccination",
+                        "subTitle": [],
+                        "content": ["https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/"]
+                    },
+                    {
+                        "date": "1993",
+                        "title": "Kary Mullis, the inventor of the PCR, has said in the past it is not a tool for diagnosis of a disease",
+                        "subTitle": [],
+                        "content": ["https://odysee.com/@RESPIRA:e/Kary-Mullis-1993:f"]
+                    },
+                    {
+                        "date": "1993",
+                        "title": "Kary Mullis calling Fauci a fraud and that he shouldn't be in the position he's in (Unfortunately, he died in late 2019...How convienent)",
+                        "subTitle": [],
+                        "content": ["https://odysee.com/@Indoril.Nerevar1E700:e/indoril.nerevar1e700:4"]
+                    },
+                    {
+                        "date": "12/18/2020",
+                        "title": "People getting tested and feeling completely fine, coming back as positive and never showed any symptoms",
+                        "subTitle": [],
+                        "content": ["https://www.npr.org/sections/health-shots/2020/12/18/947407917/i-felt-fine-but-tested-positive-for-the-coronavirus-whats-that-really-mean"]
+                    },
+                    {
+                        "date": "10/25/2020",
+                        "title": "R&D Lead at the Human Genome Project, Kevin McKernan, who has 25 years experience in PCR, stated the PCR tests should not be used as a dignosis tool and the current PCR tests are creating massive false positives and creating a \"Case-demic\"",
+                        "subTitle": [],
+                        "content": ["https://twitter.com/Kevin_McKernan/status/1320536482298384390"]
+                    },
+                    {
+                        "date": "12/06/2020",
+                        "title": "Florida Gov. now requires disclosure of PCR Cycle Thresholds (Now why would he do that if cycle thresholds don't matter...)",
+                        "subTitle": [],
+                        "content": ["https://wearechange.org/florida-will-now-require-disclosure-of-pcr-cycle-threshold-data-in-tests/"]
+                    },
+                    {
+                        "date": "02/26/2021",
+                        "title": "Lisbon, Portugal Appeals Court declared PCR tests are unreliable and lockdowns unlawfl (Important notes from the article: In their ruling, Judges Margarida Ramos de Almeida and Ana Paramés referred to several scientific studies. Most notably [a study by Jaafar et al], which found that – when running PCR tests with 35 cycles or more – the accuracy dropped to 3 percent, meaning up to 97 percent of positive results could be false positives. The ruling goes on to conclude that, based on the science they read, any PCR test using over 25 cycles is totally unreliable. Governments and private labs have been very tight-lipped about the exact number of cycles they run when PCR testing, but it is known to sometimes be as high as 45)",
+                        "subTitle": [],
+                        "content": ["https://www.msn.com/en-ph/news/opinion/historic-portuguese-ruling-on-pcr-test-germans-holding-an-inquiry/ar-BB1e3jde"]
+                    },
+                    {
+                        "date": "09/28/2020",
+                        "title": "Infectious Diseases Society of America studied PCR (Important notes from the article: \"It can be observed that at Ct = 25, up to 70% of patients remain positive in culture and that at Ct = 30 this value drops to 20%. At Ct = 35, the value we used to report a positive result for PCR, <3% of cultures are positive.\")",
+                        "subTitle": [],
+                        "content": ["https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1491/5912603"]
+                    },
+                    {
+                        "date": "08/24/2021",
+                        "title": "'All But One Turned Out To Be Negative': Rice University Retests Dozens Of Students After COVID False-Positives (I wonder how high those cycle thresholds were...)",
+                        "subTitle": [],
+                        "content": ["https://www.zerohedge.com/covid-19/all-one-turned-out-be-negative-rice-university-retests-dozens-students-after-covid-false"]
+                    },
+                    {
+                        "date": "02/09/2021",
+                        "title": "Report showing Rapid Antigen tests are even less reliable than the PCR tests",
+                        "subTitle": [],
+                        "content": ["https://www.wsav.com/now/new-study-shows-covid-19-rapid-tests-less-accurate-than-pcr/"]
+                    },
+                    {
+                        "date": "11/13/2020",
+                        "title": "Elon Musk Took Multiple Tests In The Same Day And Got Different Results",
+                        "subTitle": [],
+                        "content": ["https://www.cnbc.com/2020/11/13/musk-says-took-four-covid-19-tests-two-were-positive-two-negative.html"]
+                    },
+                    {
+                        "date": "12/17/2020",
+                        "title": "People that were marked as COVID positive, and died several weeks later from anything (motorcycle crashes, gun-shots, heart attack, etc) were being marked as a COVID death",
+                        "subTitle": [],
+                        "content": ["https://townhall.com/tipsheet/katiepavlich/2020/12/17/in-colorado-theyre-counting-gun-shot-fatalities-as-covid-deaths-n2581730"]
+                    },
+                    {
+                        "date": "12/11/2020",
+                        "title": "Austrian lawmaker tests cola for COVID and said it came back positive",
+                        "subTitle": [],
+                        "content": ["https://www.rt.com/news/509377-austria-mp-test-cola-covid-positive/"]
+                    },
+                    {
+                        "date": "05/04/2020",
+                        "title": "President of Tanzania tested Goats and Papaya fruit for COVID and it came back positive. He's been skeptical of masks, the tests, and \"vaccines\"",
+                        "subTitle": [],
+                        "content": ["https://web.archive.org/web/20210227185225/https://www.msn.com/en-za/news/africa/covid-19-pawpaw-and-goat-test-positive-for-virus-president-magufuli/ar-BB13AJWO"]
+                    },
+                    {
+                        "date": "02/08/2021",
+                        "title": "The Guardian put out an article saying \"It's time to rein in Tanzania's anti-vaxxer president\"",
+                        "subTitle": ["The article has a label on it saying it was supported by the Bill and Melinda Gates Foundation (The President convienently died a month later. I'm sure it was just a coincidence though...)"],
+                        "content": ["https://www.theguardian.com/global-development/2021/feb/08/its-time-for-africa-to-rein-in-tanzanias-anti-vaxxer-president"]
+                    },
+                    {
+                        "date": "03/18/2020",
+                        "title": "The \"Massive\" Deaths In Italy In Mid-2020 Were Brought On By Other Illness (not COVID like they wanted people to know)",
+                        "subTitle": [],
+                        "content": ["https://www.bloomberg.com/news/articles/2020-03-18/99-of-those-who-died-from-virus-had-other-illness-italy-says"]
+                    },
+                    {
+                        "date": "05/05/2021",
+                        "title": "CDC put out a paper that wants to Investigate SARS-CoV-2 infections among people who received COVID-19 vaccine to identify trends. They set the PCR cT <=28. Surprise, Surprise. They want the threshold as low as possible, so there are no false positives to falsely say the vaccine is \"working\"",
+                        "subTitle": [],
+                        "content": ["https://web.archive.org/web/20210505124115/https://www.cdc.gov/vaccines/covid-19/downloads/Information-for-laboratories-COVID-vaccine-breakthrough-case-investigation.pdf"]
+                    },
+                    {
+                        "date": "08/25/2021",
+                        "title": "\"We Don't Understand What's Really Happening\" - The CDC Is Under-Counting 'Breakthrough' COVID Cases (Deliberately under-reporting \"breakthrough\" cases to make the injection look like it's working)",
+                        "subTitle": [],
+                        "content": ["https://www.zerohedge.com/covid-19/we-dont-understand-whats-really-happening-cdc-under-counting-breakthrough-covid-cases"]
+                    },
+                    {
+                        "date": "07/13/2021",
+                        "title": "Santa Clara County's COVID-19 Deaths Fall By Nearly a Quarter With New Methodology. (Surprise, Surprise...When you don't count fake covid deaths, numbers certainly drop)",
+                        "subTitle": [],
+                        "content": ["https://www.mercurynews.com/2021/07/02/santa-clara-countys-covid-19-deaths-fall-by-nearly-a-quarter-with-new-methodology/"]
+                    },
+                    {
+                        "date": "07/26/2021",
+                        "title": "CDC Abandoning The PCR Test For COVID By The End of The Year: In the announcement it states:",
+                        "subTitle": ["\"CDC encourages laboratories to consider adoption of a multiplexed method that can facilitate detection and differentiation of SARS-CoV-2 and influenza viruses. Such assays can facilitate continued testing for both influenza and SARS-CoV-2 and can save both time and resources as we head into influenza season.\". So Are they quietly admitting that the PCR test couldn't distinguish between influenza and COVID???)"],
+                        "content": ["https://www.zerohedge.com/covid-19/why-cdc-quietly-abandoning-pcr-test-covid"]
+                    },
+                    {
+                        "date": "08/01/2021",
+                        "title": "(Remember this one?) Anything and Everything Was Classified As COVID",
+                        "subTitle": [],
+                        "content": ["https://twitter.com/MrGamatos/status/1421804038492991489"]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "type": "Follow The Money"
+            }
+        ]
+        },
+        {
+            "id": 2,
+            "name": "Their \"Cure\"",
+            "types": [
+                {
+                    "id": 1,
+                    "type": "The \"Vaccine\" and A.D.E.",
+                    "articles": [
+                        {
+                            "date": "09/01/2020",
+                            "title": "CDC's own numbers",
+                            "subTitle": [
+                                "showed 94% of deaths, on average people had 2.5 commorbidities. So that means on 6% of the deaths were caused by COVID alone. THERE IS NO PANDEMIC!",
+                                "The majority of the deaths are old people",
+                                "Most people have a greater than 99.97% recovery rate. THERE IS NO PANDEMIC"
+                            ],
+                            "content": ["https://www.msn.com/en-us/health/medical/cdc-94percent-of-covid-19-deaths-had-underlying-medical-conditions/ar-BB18wrA7"]
+                        },
+                        {
+                            "date": "03/06/2021",
+                            "title": "Geert Vanden Bossche, PhD, has worked in several pro-vaccine institutions (GAVI [Global Alliance for Vaccines and Immunization], Gates Foundation, Vaccine Companies [Novartis, GSK]) has warned about mass vaccination leading to:",
+                            "subTitle": [
+                                "potential of increased in mutations of virus, since viruses learn how to get around things",
+                                "could cause vaccine-resistant viruses (similar to antibiotic-resistant bacteria)",
+                                "The concept of Antibody Dependent Enchancement (exactly what the studies showed happened to mice for SARS vaccine and exactly what the vaccine manufacturers said they weren't sure if this would take place with their vaccines)"
+                            ],
+                            "content": [
+                                "https://youtu.be/ZJZxiNxYLpc?t=1882",
+                                "https://www.bitchute.com/video/RKU4mEe3fCgw/"
+                            ]
+                        },
+                        {
+                            "date": "05/18/2021",
+                            "title": "French Virologist, and Nobel Prize Winner, Luc Montagnier said mass vaccination is causing variants and says epidemilogists know, but are silent on the risks of A.D.E.",
+                            "subTitle": [],
+                            "content": ["https://rairfoundation.com/bombshell-nobel-prize-winner-reveals-covid-vaccine-is-creating-variants/"]
+                        }
+                        ,
+                        {
+                            "date": "04/11/2021",
+                            "title": "Study found that vaccinated did worse than unvaccinated against mutated strains",
+                            "subTitle": ["One of the first articles I found that cited a study that showed the effects of how horrible vaccinated people did against re-introduction to the virus"],
+                            "content": ["https://web.archive.org/web/20210412151607/https://denvergazette.com/wex/study-finds-covid-variant-affects-vaccinated-individuals-more-than-unvaccinated/article_4e5dc1b2-ce71-524b-8e4e-8c991063d69e.html"]
+                        },
+                        {
+                            "date": "12/04/2020",
+                            "title": "Study found that clinical trial subjects that were given the vaccine were not informed of the risk of ADE that meet medical ethics standard of patient comprehension for informed consent",
+                            "subTitle": [],
+                            "content": ["https://pubmed.ncbi.nlm.nih.gov/33113270/"]
+                        },
+                        {
+                            "date": "07/20/2021",
+                            "title": "Had COVID? You’ll probably make antibodies for a lifetime",
+                            "subTitle": ["So you have to wonder why the elite want to have every single person on the planet get the \"vaccine\". I'm sure it's because they totally care about our health..."],
+                            "content": [
+                                "https://www.nature.com/articles/d41586-021-01442-9",
+                                "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00203-2"
+                            ]
+                        },
+                        {
+                            "date": "07/11/2021",
+                            "title": "Even MSM Lets the Cat Out of the Bag Showing More People Supposedly Died in Britain From the Delta variant That We're Vaccinated vs Unvaccinated",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Lukewearechange/status/1414273887647449093"]
+                        },
+                        {
+                            "date": "06/27/2021",
+                            "title": "Why Most People Who Now Die With COVID in England Have Been Vaccinated: Don't think of this as a bad sign. It's exactly what's expected from an effective but imperfect jab",
+                            "subTitle": [
+                                "They literally are trying to gaslight everyone. The propaganda is very intense."
+                            ],
+                            "content": ["https://www.theguardian.com/theobserver/commentisfree/2021/jun/27/why-most-people-who-now-die-with-covid-have-been-vaccinated"]
+                        },
+                        {
+                            "date": "07/14/2021",
+                            "title": "Isreali Health Minister Says Natural Infection May Offer Better Protection Against the Delta Variant",
+                            "subTitle": ["Gee I wonder if it's because of A.D.E..."],
+                            "content": ["https://www.zerohedge.com/covid-19/natural-infection-may-offer-better-protection-against-delta-variant-israeli-health"]
+                        },
+                        {
+                            "date": "07/17/2021",
+                            "title": "Dr. Robert Malone, a pioneer in the field of mRNA vaccines, says, \"This is worrying me quite a bit\" in reference to COVID surging in most-vaxxed countries",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/worrying-me-quite-bit-mrna-vaccine-inventor-shares-viral-thread-showing-covid-surge-most"]
+                        },
+                        {
+                            "date": "07/22/2021",
+                            "title": "Dr. David LV Bauer of the Francis Crick Institute Explains People That Received the Injection Have Less Neutralizing Antibodies to Fight Off Infection and Will Need Booster Shots Going Forward",
+                            "subTitle": ["So he's basically admitting you have less ability to fight off the next infection because you took the injection and will now need to be permanently dependent upon booster shots"],
+                            "content": ["https://web.archive.org/web/20210726204758/https://www.bitchute.com/video/wlGv0i7mhjT8/"]
+                        },
+                        {
+                            "date": "07/27/2021",
+                            "title": "Vaxxed Individuals Could Have Higher Levels Of Virus and Infect Others Amid Variant Concerns",
+                            "subTitle": ["But I thought we'd go back to normal and that you won't get the virus if you get the injection??? Hmmm..."],
+                            "content": ["https://twitter.com/jason_meister/status/1420109166216110093/photo/1"]
+                        },
+                        {
+                            "date": "07/28/2021",
+                            "title": "The Above Mentioning of 'Vaxxed Individuals Could Have Higher Levels of Virus' From A USA Today Article Was Scrubbed",
+                            "subTitle": ["I wonder why it was taken down..."],
+                            "content": ["https://www.zerohedge.com/covid-19/usa-today-scrubs-new-evidence-suggesting-covid-vaccine-may-spread-virus"]
+                        },
+                        {
+                            "date": "07/28/2021",
+                            "title": "California Counties see COVID Cases Rising In Most Heavily Vaxxed Areas",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/california-counties-see-covid-cases-rising-most-heavily-vaccinated-counties"]
+                        },
+                        {
+                            "date": "07/29/2021",
+                            "title": "75% of New Cases in Singapore Already Got The Injection",
+                            "subTitle": [],
+                            "content": ["https://www.newswars.com/pandemic-of-the-vaccinated-75-of-new-covid-cases-in-singapore-already-got-the-jab/"]
+                        },
+                        {
+                            "date": "07/29/2021",
+                            "title": "Actor Michael Rapaport Bragged Went From Bragging About Getting The Injection and Yelling At Everyone That Doesn't Want To Get It, To Now Realizing He's Being Called a Super Spreader By His God Fauci",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Trumpgirl19632/status/1420552283360727040"]
+                        },
+                        {
+                            "date": "07/30/2021",
+                            "title": "74% Of COVID-19 Cases From Massachusetts Outbreak Occurred In Fully Vaccinated People: CDC",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/74-percent-covid-19-cases-massachusetts-outbreak-occurred-fully-vaccinated-people-cdc"]
+                        },
+                        {
+                            "date": "08/03/2021",
+                            "title": "Israel Revives COVID Restrictions As Cases Soar, Warns Of Possible Lockdown In September",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/israel-revives-covid-restrictions-cases-soar-warns-possible-lockdown-september"]
+                        },
+                        {
+                            "date": "08/12/2021",
+                            "title": "New Studies Suggest Lambda Variant Could Be Vaccine-Resistant",
+                            "subTitle": ["Hmm I wonder why??? It couldn't be that the \"vaccine\" destroyed people's immune systems and now they're susceptible to all sorts of mutations of the virus. No that couldn't be it"],
+                            "content": ["https://www.zerohedge.com/covid-19/new-studies-suggest-lambda-variant-could-be-vaccine-resistant"]
+                        },
+                        {
+                            "date": "08/12/2021",
+                            "title": "Fully Vaccinated Cruise Ship Has an Outbreak",
+                            "subTitle": ["At what point are people going to realize it's the \"vaccine\" causing all of this"],
+                            "content": ["https://twitter.com/LionInWinter44/status/1423686355884838922"]
+                        },
+                        {
+                            "date": "08/17/2021",
+                            "title": "Dr. Fauci warns Americans may face having booster shots INDEFINITELY",
+                            "subTitle": ["I mean it's not like Doctors and Epidemilogists were talking about this danger, but were heavily censored by the media and social media companies"],
+                            "content": ["https://www.dailymail.co.uk/news/article-9889661/Fauci-says-rule-indefinite-COVID-booster-shots-says-one-hopefully-suffice.html"]
+                        },
+                        {
+                            "date": "08/21/2021",
+                            "title": "Bloomberg Article Saying, \"there’s growing concern that vaccinated people may be more vulnerable to serious illness than previously thought.\"",
+                            "subTitle": ["This was well-known! But nobody wanted to hear it...Propaganda by the state and media are very effective"],
+                            "content": ["bloomberg.com/news/articles/2021-08-21/science-can-t-keep-up-with-virus-creating-worry-for-vaccinated"]
+                        },
+                        {
+                            "date": "08/21/2021",
+                            "title": "Hospitalizations in Hawaii are up 854% in 2 months, despite one of the longest mask mandates and highest vaccination rates in the country",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/ianmSC/status/1429175823412518913"]
+                        },
+                        {
+                            "date": "08/22/2021",
+                            "title": "St Vincent’s hospital in Dublin is admitting a “worrying” number of double-vaccinated patients for treatment for Covid-19, emergency department head Professor John Ryan has said",
+                            "subTitle": [],
+                            "content": ["https://www.independent.ie/world-news/coronavirus/st-vincents-at-capacity-as-worried-unwell-add-to-the-workload-woes-40775399.html"]
+                        },
+                        {
+                            "date": "08/23/2021",
+                            "title": "CDC Director Saying In March 2021 That You Can't Get COVID If Vaccinated Then In August Saying We're Seeing People That Are Vaccinated Getting It",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Alpha_Mind7/status/1429766575318466571"]
+                        },
+                        {
+                            "date": "",
+                            "title": "Fully Vaccinated Woman Dies of Covid after Taking Carnival Cruise to Belize – 27 People Total Tested Positive For Covid Aboard Ship – ALL VACCINATED",
+                            "subTitle": [],
+                            "content": ["https://www.thegatewaypundit.com/2021/08/fully-vaccinated-woman-dies-covid-taking-carnival-cruise-belize-27-people-total-tested-positive-covid-aboard-ship-vaccinated/"]
+                        },
+                        {
+                            "date": "05/14/2021",
+                            "title": "8 Players on the Yankees tested \"positive\" for covid after taking the J&J injection",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/yankees-suffer-covid-resurgence-8-fully-vaccinated-players-staff-test-positive"]
+                        },
+                        {
+                            "date": "04/21/2021",
+                            "title": "Yale Professor Says 60% of new COVID patients have received the vaccine",
+                            "subTitle": [],
+                            "content": ["https://www.lifesitenews.com/news/yale-public-health-professor-suggests-60-of-new-covid-19-patients-have-received-vaccine"]
+                        },
+                        {
+                            "date": "08/06/2021",
+                            "title": "CDC Director Says the Injection No Longer Prevents You From Spreading It",
+                            "subTitle": ["But remember! \"It's safe and effective. Get your shot today, so we can end this pandemic! lol\""],
+                            "content": ["https://www.realclearpolitics.com/video/2021/08/06/cdc_director_vaccines_no_longer_prevent_you_from_spreading_covid.html#!"]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "Adverse Reactions",
+                    "articles": [
+                        {
+                            "date": "12/15/2020",
+                            "title": "Bells palsy (clinical trials)",
+                            "subTitle": ["There are currently 7,812 reported cases of facial paralysis from the \"vaccine\""],
+                            "content": [
+                                "https://www.cnbc.com/2020/12/15/fda-staff-recommends-watching-for-bells-palsy-in-moderna-and-pfizer-vaccine-recipients.html",
+                                "https://www.msn.com/en-us/money/watch/four-people-given-the-new-covid-vaccine-in-clinical-trials-developed-bells-palsy%E2%80%94should-y/vp-BB1bQKqw",
+                                "https://www.medalerts.org/vaersdb/findfield.php?TABLE=ON&GROUP1=MAN&EVENTS=ON&SYMPTOMS[]=Bell%27s+palsy+%2810004223%29&SYMPTOMS[]=Facial+discomfort+%2810083537%29&SYMPTOMS[]=Facial+dysmorphism+%2810016045%29&SYMPTOMS[]=Facial+nerve+disorder+%2810061457%29&SYMPTOMS[]=Facial+neuralgia+%2810061594%29&SYMPTOMS[]=Facial+palsy+%2810016060%29&SYMPTOMS[]=Facial+paralysis+%2810016062%29&SYMPTOMS[]=Facial+paresis+%2810051267%29&SYMPTOMS[]=Facial+spasm+%2810063006%29&VAX=COVID19"
+                            ]
+                        },
+                        {
+                            "date": "01/06/2021",
+                            "title": "Miami Doctor dropping dead",
+                            "subTitle": ["I'm sure it's just a coincidence though..."],
+                            "content": ["https://www.msn.com/en-us/health/medical/miami-doctor-dies-within-weeks-of-receiving-pfizer-covid-19-vaccine/ar-BB1cx6DA"]
+                        },
+                        {
+                            "date": "07/01/2021",
+                            "title": "Portuguese nurse dies suddenly after receving vaccine",
+                            "subTitle": [],
+                            "content": ["https://www.msn.com/en-xl/news/other/portuguese-nurse-dies-two-days-after-getting-pfizer-biontech-covid-vaccine/ar-BB1cwZk4"]
+                        },
+                        {
+                            "date": "01/16/2021",
+                            "title": "Norway said the vaccine has serious consequences after 29 die following Pfizer vaccine",
+                            "subTitle": [],
+                            "content": ["https://www.news18.com/news/world/norway-covid19-vaccine-side-effects-deaths-coronavirus-sick-elderly-europe-caution-3297452.html"]
+                        },
+                        {
+                            "date": "01/18/2021",
+                            "title": "California halts vaccinations from Moderna after unusally high number of adverse reactions",
+                            "subTitle": [],
+                            "content": ["https://www.msn.com/en-us/health/medical/california-health-official-urges-halt-to-300000-moderna-vaccinations-after-reports-of-allergic-reactions/ar-BB1cRVMe"]
+                        },
+                        {
+                            "date": "03/11/2021",
+                            "title": "Utah medical examiner says 39 year old Mom's death 4 days after taking vaccine is related",
+                            "subTitle": [],
+                            "content": ["https://www.foxnews.com/us/utah-medical-examiner-moms-death-after-taking-covid-vaccine-temporally-related"]
+                        },
+                        {
+                            "date": "01/12/2021",
+                            "title": "Auburn Nursing Home has 137 Residents \"Infected\" and killed 24. (Curiously there were no cases or deaths prior to a vaccination roll-out that occurred on Dec. 22nd. The first case was reported Dec. 29th and then people started dropping like flies. Curious timing don't you think?)",
+                            "subTitle": [],
+                            "content": ["https://www.msn.com/en-us/health/medical/32-residents-die-from-outbreak-at-auburn-nursing-home/ar-BB1cH30a"]
+                        },
+                        {
+                            "date": "08/30/2021",
+                            "title": "Canadian man loses six feet of his small intenstine after Astra Zeneca shot",
+                            "subTitle": ["Say it with me, \"Safe and effective. Safe and effective\""],
+                            "content": ["https://www.newswars.com/canadian-man-loses-over-six-feet-of-intestine-after-blood-clot-caused-by-covid-vaccine-2/"]
+                        },
+                        {
+                            "date": "06/21/2021",
+                            "title": "Thousands of Women Reporting Heavier Than Usual Periods Following Injection",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/4k-women-report-period-problems-potentially-tied-covid-jabs"]
+                        },
+                        {
+                            "date": "04/07/2021",
+                            "title": "Australian woman dies after receiving vaccine",
+                            "subTitle": [],
+                            "content": ["https://nypost.com/2021/04/07/australian-woman-dies-after-receiving-covid-19-vaccine-officials/"]
+                        },
+                        {
+                            "date": "02/08/2021",
+                            "title": "NY man dies 25 minutes after receiving vaccine",
+                            "subTitle": [],
+                            "content": ["https://kvoa.com/coronavirus-coverage/2021/02/08/new-york-man-dies-25-minutes-after-receiving-covid-19-vaccine/"]
+                        },
+                        {
+                            "date": "04/27/2021",
+                            "title": "\"Fit and Healthy\" 27 year old Engineer, died 3-weeks after Astra Zeneca Injection",
+                            "subTitle": [],
+                            "content": ["https://www.thesun.co.uk/news/health-news/14776366/engineer-dies-astrazeneca-covid-vaccine/"]
+                        },
+                        {
+                            "date": "12/30/2020",
+                            "title": "Swiss man died after receiving injection. From the article headline: \"...Unclear if there's a link\"",
+                            "subTitle": ["It's funny when they say unclear if there's a link, but if someone tested positive for COVID using a test that has a 90% false positive rate and then die from a heart attack a few weeks later, well that's obviously a COVID death according to them lol"],
+                            "content": ["https://finance.yahoo.com/news/swiss-canton-says-person-died-112713163.html"]
+                        },
+                        {
+                            "date": "05/04/2021",
+                            "title": "Michigan Mother of Four, 35 years old, dies from brain blood clot 11 days after J&J shot",
+                            "subTitle": [],
+                            "content": ["https://www.dailymail.co.uk/health/article-9542101/CDC-investigates-death-Michigan-woman-died-blood-clot-11-days-receiving-J-J.html"]
+                        },
+                        {
+                            "date": "04/26/2021",
+                            "title": "Famous Indian Actor and Government Ambassador for Public Health Who Advocated for the Vaccine Died a Day after Receiving it",
+                            "subTitle": ["\"I want to put an end to all the rumors. I want to show people that there is no danger in getting vaccinated. On the contrary, it will protect us,\" said Vivekh day before passing."],
+                            "content": ["https://twitter.com/garethicke/status/1386584185649913856"]
+                        },
+                        {
+                            "date": "07/12/2021",
+                            "title": "Guillain-Barre Syndrome Now Linked to Injection from J&J",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/fda-add-warning-over-rare-neurological-side-effects-linked-jj-jabs"]
+                        },
+                        {
+                            "date": "04/23/2021",
+                            "title": "Woman's legs erupt into blood-filled blisters leading her wheelchair-bound following Astra Zeneca shot",
+                            "subTitle": [],
+                            "content": ["https://www.dailymail.co.uk/news/article-9496075/Mothers-legs-erupt-horrifying-rash-blisters-getting-AstraZenecas-Covid-vaccine.html"]
+                        },
+                        {
+                            "date": "03/30/2021",
+                            "title": "Man's skin peeled off after vaccine",
+                            "subTitle": [],
+                            "content": ["https://nypost.com/2021/03/30/mans-skin-peeled-off-in-reaction-to-johnson-johnson-covid-vax/"]
+                        },
+                        {
+                            "date": "05/24/2021",
+                            "title": "17-year old Hospitalized With Brain Clots Day After Injection. He had no underlying conditions his Mom said",
+                            "subTitle": ["Kids have effectively a zero chance of having a bad time with this virus, yet they're pushing it on kids. It really makes you wonder why they're doing that. Couldn't be for profits or control. No that couldn't be it."],
+                            "content": ["https://www.abc4.com/news/local-news/draper-teenager-hospitalized-with-blood-clots-after-covid-19-vaccine-shot/"]
+                        },
+                        {
+                            "date": "05/22/2021",
+                            "title": "CDC Investigating Cases of Myocarditis in teens who took the injection",
+                            "subTitle": [],
+                            "content": [
+                                "https://www.nytimes.com/2021/05/22/health/cdc-heart-teens-vaccination.html",
+                                "https://nationalfile.com/18-year-old-develops-myocarditis-after-taking-covid-vaccine-confirming-national-files-reporting/"
+                            ]
+                        },
+                        {
+                            "date": "08/30/2021",
+                            "title": "32 Year Old Dies of Sudden Cardiac Arrest After J&J Injection",
+                            "subTitle": [],
+                            "content": ["https://www.newswars.com/tearjerker-covid-vaccine-killed-32-year-old-son-grieving-parents-warn/"]
+                        },
+                        {
+                            "date": "05/17/2021",
+                            "title": "Chelsea Handler going deaf in left ear right after 2nd shot of \"Vaccine\"",
+                            "subTitle": [],
+                            "content": ["https://www.newswars.com/comedian-chelsea-handler-goes-deaf-in-one-ear-after-moderna-vaccine/"]
+                        },
+                        {
+                            "date": "05/16/2021",
+                            "title": "Eric Clapton Suffered Major Adverse Reactions To AZ Injection. Blames Propaganda For Saying It's Safe",
+                            "subTitle": [],
+                            "content": ["https://www.rollingstone.com/music/music-news/eric-clapton-disastrous-vaccine-propaganda-1170264/"]
+                        },
+                        {
+                            "date": "06/16/2021",
+                            "title": "Comedian Jimmy Dore Explaining His Month's long symptoms from vaccine damage. Explained How his doctor is seeing tons of patients like this",
+                            "subTitle": [],
+                            "content": ["https://odysee.com/@demonetized_memes:6/jd3452345:a"]
+                        },
+                        {
+                            "date": "05/25/2021",
+                            "title": "Young British Model Dies After AZ Injection. Resulted in blood clots",
+                            "subTitle": [],
+                            "content": ["https://www.newswars.com/model-dies-days-after-receiving-astrazeneca-covid-vaccine/"]
+                        },
+                        {
+                            "date": "06/21/2021",
+                            "title": "13 Year old Boy Dead 3 Days Later After Second Injection Due to Swelling Around the Heart. According to Family, Had no known health problems and not on any medications",
+                            "subTitle": [],
+                            "content": ["https://nationalfile.com/13-year-old-boy-dies-three-days-after-taking-second-covid-shot/"]
+                        },
+                        {
+                            "date": "05/27/2021",
+                            "title": "BBC Radio Host Dies of Blood Clot in Brain After Astra Zeneca Injection",
+                            "subTitle": [],
+                            "content": ["https://nationalfile.com/bbc-radio-host-dies-of-blood-clot-in-brain-after-taking-astrazeneca-vaccine/"]
+                        },
+                        {
+                            "date": "05/25/2021",
+                            "title": "The first man to receive the Injection, \"William\" Shakespeare, died",
+                            "subTitle": [],
+                            "content": ["https://www.newswars.com/first-man-to-receive-covid-vaccine-dies/"]
+                        },
+                        {
+                            "date": "06/28/2021",
+                            "title": "Mom of three children, 47, died about 3 weeks after AZ Jab. Ceberal Venus Sinus Thrombosis",
+                            "subTitle": [],
+                            "content": ["https://www.newswars.com/mom-of-3-excited-about-getting-vaccine-dies-from-blood-clot-in-brain-following-astrazeneca-jab/"]
+                        },
+                        {
+                            "date": "05/17/2021",
+                            "title": "Sweden Records More Than 30,000 Adverse Reactions to the Injection",
+                            "subTitle": ["I wonder how high the current numbers are..."],
+                            "content": ["https://www.zerohedge.com/covid-19/sweden-records-more-30k-cases-side-effects-tied-covid-jabs"]
+                        },
+                        {
+                            "date": "06/10/2021",
+                            "title": "CDC to Hold Emergency Meeting After 100s Suffer From Heart Inflammation After Injection",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/cdc-hold-emergency-meeting-after-100s-suffer-heart-inflammation-following-covid-vaccines"]
+                        },
+                        {
+                            "date": "06/17/2021",
+                            "title": "Preliminary Findings of mRNA Covid-19 Vaccine Safety in Pregnant Persons Shows 14% Misscarriage Rate",
+                            "subTitle": ["But if you look at the methodology, it's much higher...as if 14% isn't high enough"],
+                            "content": ["https://www.nejm.org/doi/full/10.1056/NEJMoa2104983"]
+                        },
+                        {
+                            "date": "07/01/2021",
+                            "title": "New Study Links Acute Chest Pain in Male Soldiers to Injection",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/new-study-shows-dangerous-hearth-inflammation-likely-tied-pfizer-moderna-jabs"]
+                        },
+                        {
+                            "date": "07/02/2021",
+                            "title": "13-Year-Old Dies in Sleep After Receiving Pfizer COVID Vaccine; CDC Investigating",
+                            "subTitle": [],
+                            "content": ["https://www.msn.com/en-us/health/medical/13-year-old-dies-in-sleep-after-receiving-pfizer-covid-vaccine-cdc-investigating/ar-AALHXDL"]
+                        },
+                        {
+                            "date": "07/09/2021",
+                            "title": "45 Year Old Mom, Hired at John Hopkins Hospital Dies After Reaction to Work-Mandated Covid Vaccine",
+                            "subTitle": [],
+                            "content": ["https://www.infowars.com/posts/mom-45-who-got-job-at-john-hopkins-hospital-dies-after-reaction-to-work-mandated-covid-vaccine/"]
+                        },
+                        {
+                            "date": "07/17/2021",
+                            "title": "Woman in her late 20's now has several permanent neurological disorders after the injection she received in March",
+                            "subTitle": ["She permanently ruined her life over the fear of getting the flu and/or societal peer pressure and/or effective propaganda about how it's \"safe and effective\""],
+                            "content": [
+                                "https://www.instagram.com/p/CRbw8NEsOc6/",
+                                "https://twitter.com/erin_bsn/status/1426969006771146758"
+                            ]
+                        },
+                        {
+                            "date": "07/17/2021",
+                            "title": "Woman Double Vaccinated And Suffering From Neurological Problems After Reportedly \"Catching COVID\"",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/LesleyABeach/status/1416511801563525130"]
+                        },
+                        {
+                            "date": "07/29/2021",
+                            "title": "2 Men Get Pus-Filled Bumps on Face After Moderna Injection",
+                            "subTitle": [],
+                            "content": ["https://www.dailymail.co.uk/health/article-9836075/Two-men-developed-PUS-FILLED-bumps-faces-rare-effect-Moderna-COVID-19-vaccine.html?ito=social-twitter_dailymailus"]
+                        },
+                        {
+                            "date": "08/11/2021",
+                            "title": "More Dangerous Side Effects Potentially Linked To mRNA Vaccines, EU Warns",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/new-side-effects-potentially-linked-mrna-vaccines-eu-warns"]
+                        },
+                        {
+                            "date": "08/11/2021",
+                            "title": "Double Jabbed Man Explains How He's Had Debilidating Physical Affects From It",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Willow__Bella/status/1425416627592601605"]
+                        },
+                        {
+                            "date": "08/11/2021",
+                            "title": "Young Woman Developed Pericarditis From Injection",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/GeorgiaBClark/status/1425329896188825611"]
+                        },
+                        {
+                            "date": "08/18/2021",
+                            "title": "20 Year Old Healthy Woman Experienced a TIA and Continuing to Suffer Neurological Deficits such as Memory Loss, Can't Remember Names and Faces and Can't Name Certain Objects",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/musicandvgames/status/1427912520052977668"]
+                        },
+                        {
+                            "date": "08/20/2021",
+                            "title": "Moderna Injection Linked To 2.5 Times Higher Risk of Heart Inflammation",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/us-investigates-moderna-jab-after-data-show-25x-higher-risk-heart-inflammation"]
+                        },
+                        {
+                            "date": "07/19/2021",
+                            "title": "Whistleblower Claims At Least 45,000 People Within 3 Days Of Injection. Lawsuit Being Drafted Up",
+                            "subTitle": [],
+                            "content": ["https://www.newswars.com/huge-whistleblower-says-at-least-45k-people-have-died-from-experimental-covid-jab-in-new-lawsuit/"]
+                        },
+                        {
+                            "date": "12/01/2020",
+                            "title": "THIS IS VERY IMPORTANT: Underreporting in Vaccine Adverse Event Reporting System",
+                            "subTitle": ["The number of reported adverse reaction events to vaccines is heavily underreported. Not to mention with the amount of propaganda about these COVID \"vaccines\" being pushed, people don't want to speak out about their stories because they fear they'll be labeled a conspiracy theorist or fear they won't be accepted in their friend group"],
+                            "content": ["https://www.icandecide.org/wp-content/uploads/2020/12/Lazarus-report.pdf"]
+                        },
+                        {
+                            "date": "Ongoing",
+                            "title": "US Adverse Reactions (including death) Reported From the Injection",
+                            "subTitle": [
+                                "5/7/21: 192,954",
+                                "6/4/21: 329,021 (So less than a month, it's gone up 58%)",
+                                "6/11/21: 358,379",
+                                "7/9/21: 463,457",
+                                "7/16/21: 491,218",
+                                "7/30/21: 545,338",
+                                "8/6/21: 571,831",
+                                "8/20/21: 623,343"
+                            ],
+                            "content": ["https://www.medalerts.org/vaersdb/findfield.php?TABLE=ON&GROUP1=CAT&EVENTS=ON&VAX=COVID19"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Government's Response",
+            "types": [
+                {
+                    "id": 1,
+                    "type": "Vaccine Passports",
+                    "articles": [
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "Masks Are Pointless",
+                    "articles": [
+                        {
+                            "date": "03/08/2020",
+                            "title": "Flashback: Fauci said nobody should be walking around with a mask and it may do more harm than good",
+                            "subTitle": [],
+                            "content": ["https://odysee.com/@Covid19docs:4/fauci-masks-don't-work:9"]
+                        },
+                        {
+                            "date": "06/02/2021",
+                            "title": "Fauci Admitting in an Email from February of 2020 That Masks Are Really for Infected People and the Typical Mask You Buy at the Store Is Not Really Effective",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/not-really-effective-fauci-panned-masks-preventing-covid-19-infection-email"]
+                        },
+                        {
+                            "date": "05/18/2021",
+                            "title": "Fauci Flip-flopping on wearing a mask after vaccination",
+                            "subTitle": ["The second link is a perfect compilation of his habitual lying to the point where he's just screwing with us on purpose or he has a mental disorder. I'd lean more toward the former"],
+                            "content": [
+                                "https://twitter.com/YALiberty/status/1394657595949002758",
+                                "https://twitter.com/Lukewearechange/status/1420064954443501568"
+                            ]
+                        },
+                        {
+                            "date": "03/30/2020",
+                            "title": "Flashback: WHO Stands By Recommendation to Not Wear Masks If You Are Not Sick",
+                            "subTitle": [],
+                            "content": ["https://edition.cnn.com/2020/03/30/world/coronavirus-who-masks-recommendation-trnd/index.html"]
+                        },
+                        {
+                            "date": "02/29/2020",
+                            "title": "Flashback: Surgeon General - \"Seriously, Stop Buying Masks\"",
+                            "subTitle": [],
+                            "content": ["https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html"]
+                        },
+                        {
+                            "date": "02/01/2021",
+                            "title": "Doctor Says I Don't Wear a Mask Because They Work, I Do It So Others Don't Think I Don't Care About Them",
+                            "subTitle": [],
+                            "content": ["https://www.youtube.com/watch?v=Ko6qCib1_YM"]
+                        },
+                        {
+                            "date": "02/11/2021",
+                            "title": "Video showing doctor blowing smoke through masks and showing it completely going through and around the mask",
+                            "subTitle": [
+                                "Viral particles are much smaller than smoke, so he's essentially showing masks are pointless"
+                            ],
+                            "content": ["https://odysee.com/@MysteriaTV:8/Masks-are-useless:6"]
+                        },
+                        {
+                            "date": "02/11/2021",
+                            "title": "Having babies not able to see people's faces, facial expressions, and emotional cues is destructive to their development",
+                            "subTitle": [],
+                            "content": ["https://www.scientificamerican.com/article/masks-can-be-detrimental-to-babies-speech-and-language-development1/"]
+                        },
+                        {
+                            "date": "07/17/2021",
+                            "title": "Dr. Colin Axon Warned Some Cloth Masks Have Gaps That Are Invisible To The Naked Eye, but Are 500,000 Times Larger Than Viral Particles",
+                            "subTitle": [],
+                            "content": ["https://www.telegraph.co.uk/news/2021/07/17/cloth-face-masks-comfort-blankets-do-little-curb-covid-spread/?WT.mc_id=tmgliveapp_iosshare_AxdbmR7tGYPz"]
+                        },
+                        {
+                            "date": "10/12/2020",
+                            "title": "CDC said most people that get COVID, report mostly wearing masks",
+                            "subTitle": [],
+                            "content": ["https://www.theblaze.com/op-ed/horowitz-cdc-study-covid-masks"]
+                        },
+                        {
+                            "date": "02/12/2009",
+                            "title": "Japan Study to Determine if Masks Prevent Common Cold. Results show they did not significantly reduce symptoms or individuals getting cold",
+                            "subTitle": [],
+                            "content": ["https://pubmed.ncbi.nlm.nih.gov/19216002/"]
+                        },
+                        {
+                            "date": "Multiple Dates",
+                            "title": "Other Studies Showing Masks Don't Work",
+                            "subTitle": [],
+                            "content": ["https://thewallwillfall.org/2020/06/23/masks-dont-work-a-review-of-science-relevant-to-covid-19-social-policy/"]
+                        },
+                        {
+                            "date": "05/18/2021",
+                            "title": "University of Louisville Concluded No Significant Effect of Masks Between US States To Control COVID",
+                            "subTitle": [],
+                            "content": ["https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1"]
+                        },
+                        {
+                            "date": "08/19/2021",
+                            "title": "Full List of Studies How Masks Don't Do Shit",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/red-states-banning-school-mask-mandates-face-battle-biden-admin"]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "The Great Reset",
+                    "articles": [
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "type": "Hypocrisy",
+                    "articles": [
+                        {
+                            "date": "12/02/2020",
+                            "title": "Mayor of Austin caught going to Mexico during lockdown",
+                            "subTitle": [],
+                            "content": ["https://apnews.com/article/mexico-coronavirus-pandemic-austin-texas-26340eabdc1d450e21ba650e42060f30"]
+                        },
+                        {
+                            "date": "04/19/2021",
+                            "title": "Michigan Gov. traveled to Florida When She told her state to lockdown",
+                            "subTitle": [],
+                            "content": ["https://www.metrotimes.com/news-hits/archives/2021/04/19/whitmer-traveled-out-of-state-to-visit-sick-father-amid-pandemic"]
+                        },
+                        {
+                            "date": "05/24/2021",
+                            "title": "Michigan Gov. at it again. Hanging out with more than 6 people at a bar, violating her own rules",
+                            "subTitle": [],
+                            "content": ["https://summit.news/2021/05/24/governor-whitmer-becomes-latest-authority-figure-to-flagrantly-violate-her-own-covid-rules/"]
+                        },
+                        {
+                            "date": "11/18/2020",
+                            "title": "California governor caught at restaurant with a bunch of people, but telling people to not gather and stay home",
+                            "subTitle": [],
+                            "content": ["https://www.msn.com/en-us/news/us/gavin-newsom-ate-birthday-dinner-inside-california-restaurant/ar-BB1b8k2X"]
+                        },
+                        {
+                            "date": "09/02/2020",
+                            "title": "Nancy Pelosi caught getting her hair done at a salon that was closed by her",
+                            "subTitle": [],
+                            "content": ["https://www.cnn.com/2020/09/02/politics/nancy-pelosi-hair-salon/index.html"]
+                        },
+                        {
+                            "date": "04/11/2020",
+                            "title": "Mayor of Chicago said she needs to go get a haircut because it's important for her to get her haircut, but justifies that no one else should be able to",
+                            "subTitle": [],
+                            "content": ["https://www.nbcnews.com/news/nbcblk/chicago-mayor-defends-hairstylist-visit-amid-coronavirus-outbreak-n1181546"]
+                        },
+                        {
+                            "date": "01/21/2021",
+                            "title": "Biden not wearing mask at Lincoln Memorial, just hours after announcing masks are mandated on all federal property",
+                            "subTitle": [],
+                            "content": ["https://nypost.com/2021/01/21/biden-maskless-at-lincoln-memorial-hours-after-mandate/"]
+                        },
+                        {
+                            "date": "07/22/2021",
+                            "title": "Texas Democrat Who Featured In Infamous Maskless Flight, Calls For Universal Mask Wearing",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/democrat-who-featured-infamous-maskless-flight-pic-calls-universal-mask-wearing"]
+                        },
+                        {
+                            "date": "08/10/2021",
+                            "title": "Obama's Birthday Bash Had All Of The Criminals, Celebretards and Propaganda Mouthpieces That Are Telling You To Lockdown and Put a Muzzle On, But Did None of That",
+                            "subTitle": [
+                                "3 Days In and Still Going!"
+                            ],
+                            "content": [
+                                "https://twitter.com/ggreenwald/status/1424730022087204871",
+                                "https://summit.news/2021/08/09/obamas-superspreader-party-still-hasnt-ended/"
+                            ]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "Andrew Cuomo From CNN (On Air: Delta is scary and you need to mask up, get the injection, and lockdown. Off Air: see video)",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/YALiberty/status/1426204396820512768"]
+                        },
+                        {
+                            "date": "08/16/2021",
+                            "title": "New Jersey Gov. Phil Murphy Vacations In $7 Million Italian Villa Despite Delta Variant Surge And Travel Warnings",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/markets/new-jersey-governor-phil-murphy-vacations-7-million-italian-villa-despite-states-delta"]
+                        },
+                        {
+                            "date": "08/09/2021",
+                            "title": "Maskless Congress Woman Rashida Tlaib Parties With 100+ Maskless People At the Same Time Screaming About The Dangers of COVID and Complaining About Rand Paul's Response To This Hysteria",
+                            "subTitle": [],
+                            "content": [
+                                "https://twitter.com/robbystarbuck/status/1424774759787769856",
+                                "https://twitter.com/robbystarbuck/status/1425095568926421011/photo/1"
+                            ]
+                        },
+                        {
+                            "date": "09/29/2020",
+                            "title": "Pennsylvania Governor and associate joke about wearing masks as political theater just before a press briefing",
+                            "subTitle": [],
+                            "content": ["https://odysee.com/@HighImpactFlix:ca/hot-mic-pa-gov-jokes-about-masks-being:f"]
+                        },
+                        {
+                            "date": "07/28/2021",
+                            "title": "NSW Australian Dictator Takes Mask Off When Leaving Press Announcement",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/CaldronPool/status/1420569728972509188"]
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "type": "10 Steps To Genocide",
+                    "articles": [
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Propaganda",
+            "types": [
+                {
+                    "id": 1,
+                    "type": "Media",
+                    "articles": [
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "Censorship",
+                    "articles": [
+                        {
+                            "date": "12/22/2020",
+                            "title": "California Doctor lost job after writing letter criticizing lockdowns",
+                            "subTitle": [],
+                            "content": ["https://www.msn.com/en-us/news/us/california-doctor-removed-from-job-after-questioning-covid-lockdowns/ar-BB1c9k4p"]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "type": "Programming & Manipulation",
+                    "articles": [
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercises",
+            "types": [
+                {
+                    "id": 1,
+                    "type": "Event 201",
+                    "articles": [
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "type": "Cyber Polygon",
+                    "articles": [
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Government's Experimenting on Citizens",
+            "types": [
+                {
+                    "id": 1,
+                    "type": "List of Experiments",
+                    "articles": [
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        },
+                        {
+                            "date": "",
+                            "title": "",
+                            "subTitle": [],
+                            "content": [""]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
