@@ -1377,16 +1377,131 @@
                     "type": "Government's Effect On You",
                     "articles": [
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "04/30/2021",
+                            "title": "34% of all household income now comes from the government. UBI Being Setup. Just a matter of time",
+                            "subTitle": [
+                                "Get ready for the situation where you'll need to be vaxxed to receive an unemployment check. When you're dependent upon the government, you're a slave. This will happen. I guarentee it and it won't be a long time away"
+                            ],
+                            "content": ["https://www.zerohedge.com/economics/record-34-all-household-income-us-now-comes-government"]
+                        },
+                        {
+                            "date": "05/10/2021",
+                            "title": "It's Now More Lucrative To Be On Unemployment Than Work for Minimum Wage, Dishwasher, Hotel Clerk, Preschool Teacher, Light Truck Driver, and Dental Assistant",
+                            "subTitle": [
+                                "This is all part of the UBI plan to have everyone dependent on government. According to the WEF: \"You'll own nothing and have never been happier\""
+                            ],
+                            "content": ["https://www.zerohedge.com/markets/shocking-chart-shows-most-workers-now-make-more-unemployment-their-jobs"]
+                        },
+                        {
+                            "date": "05/12/2021",
+                            "title": "Economist Proposes \"Re-Employment Bonus\" To Entice People to Get Back To Work",
+                            "subTitle": [
+                                "Again, this is what happens when government intervenes. They cause disruptions in the free market, create dependents of people, and destroy businesses who can't find workers anymore."
+                            ],
+                            "content": ["https://www.zerohedge.com/personal-finance/economist-proposes-re-employment-bonus-bribe-government-sponsored-couch-sitters"]
+                        },
+                        {
+                            "date": "08/06/2021",
+                            "title": "There Are Now More Job Openings Than Unemployed Workers",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.zerohedge.com/markets/there-are-now-more-job-openings-unemployed-workers"]
+                        },
+                        {
+                            "date": "02/17/2021",
+                            "title": "NY. Governor killed thosands of elderly in nursing homes",
+                            "subTitle": [],
+                            "content": ["https://abcnews.go.com/Politics/york-gov-andrew-cuomo-investigation-nursing-home-deaths/story?id=75960261"]
+                        },
+                        {
+                            "date": "05/20/2021",
+                            "title": "Reports of Children in Canada suicide attempts due to lockdown are up 200%",
+                            "subTitle": [
+                                "Thank you government! You care so much about our health!"
+                            ],
+                            "content": ["https://www.rt.com/news/524315-child-suicide-attempts-lockdown/"]
+                        },
+                        {
+                            "date": "04/09/2020",
+                            "title": "Doctors Moved Away From Ventilators Because Some Think They Are Doing More Harm",
+                            "subTitle": [
+                                "It was a widespread push by governments to put people on ventilators at the beginning of 2020, resulting in mass deaths. Hospitals had financial incentives to declare a covid case ($13,000) and putting people on ventilators ($39,000)."
+                            ],
+                            "content": ["https://www.nbcnews.com/health/health-news/why-some-doctors-are-moving-away-ventilators-virus-patients-n1179986"]
+                        },
+                        {
+                            "date": "05/20/2021",
+                            "title": "Dr. Scott Atlas, Former White House COVID Advisor, says lockdowns were a henious abuse of power and they failed to protect the elderly",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/scott-atlas-lockdowns-not-only-heinous-abuse-power-they-also-failed-protect-elderly"]
                         },
                         {
                             "date": "",
-                            "title": "",
-                            "subTitle": [],
-                            "content": [""]
+                            "title": "Government Lockdowns Destroys People's Health",
+                            "subTitle": [
+                                "No Sunshine (where you get vitamin D, which is important for the immune system and even mainline studies show, worse COVID outcomes with low-level Vitamin D)",
+                                "No Fresh air (constantly being inside, breathing in household chemicals): EPA has noted indoor concentrations of pollutants are 2-5 times more than outdoor",
+                                "No Human interation (suicides, depression and loneliness statistics are massive. Japan has more suicides than COVID deaths)",
+                                "Not Able to go to the Gyms, but McDonalds is open.",
+                                "Regular screenings for illnesses (cancer, cardiovascular, etc) because they're either too scared or not able to",
+                                "Why did they isolate everyone and close Gyms and Churches (churches are still closed in many areas of the world)"
+                            ],
+                            "content": [
+                                "https://pubmed.ncbi.nlm.nih.gov/32855214/",
+                                "https://www.epa.gov/report-environment/indoor-air-quality",
+                                "https://www.cnn.com/2020/11/28/asia/japan-suicide-women-covid-dst-intl-hnk/index.html",
+                                "https://abcnews.go.com/Health/depression-rates-tripled-pandemic-study/story?id=72724832",
+                                "https://www.bcbswny.com/content/wny/provider/news/blue-bulletin/preventive-health-screenings-down-due-to-COVID-19-pandemic.html",
+                                "https://nationalfile.com/video-200-armed-riot-police-break-up-christian-church-service-in-canada/",
+                                "https://www.breitbart.com/europe/2021/04/04/watch-gestapo-not-welcome-here-canadian-police-thrown-out-easter-service-polish-pastor/"
+                            ]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "Lockdown Created 1 Million New Alcoholics in England",
+                            "subTitle": [
+                                "But remember! Government cares about your health!"
+                            ],
+                            "content": ["https://summit.news/2021/08/13/lockdown-created-1-million-new-alcoholics-in-england/"]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "Study Finds Children Born During Lockdown Have Lost IQ Points, Impaired Cognitive Functioning",
+                            "subTitle": [
+                                "Perfect outcome for government! A new generation of lower IQ individuals that will believe everything the government says!"
+                            ],
+                            "content": ["https://summit.news/2021/08/13/study-finds-children-born-during-lockdown-have-lost-iq-points-impaired-cognitive-functioning/"]
+                        },
+                        {
+                            "date": "08/20/2021",
+                            "title": "NYT Admits Plastic COVID Barriers Provide False Sense Of Security, Could Make Things Worse",
+                            "subTitle": [
+                                "All these restrictions and rules by governments are meant to make things worse. Everything governments touch turn to shit. They are the antithesis of Midas' touch"
+                            ],
+                            "content": ["https://www.zerohedge.com/covid-19/nyt-admits-plastic-covid-barriers-provide-false-sense-security-could-make-things-worse"]
+                        },
+                        {
+                            "date": "08/22/2021",
+                            "title": "Australian Authorities Shot and Killed Rescue Dogs To Prevent Volunteers From Travelling to Pick Them Up, Due to Their Authoritarian Restrictions",
+                            "subTitle": [
+                                "Remember, government's care so much about living things"
+                            ],
+                            "content": ["https://www.smh.com.au/national/nsw/rescue-dogs-shot-dead-by-nsw-council-due-to-covid-19-restrictions-20210821-p58ksh.html"]
+                        },
+                        {
+                            "date": "08/22/2021",
+                            "title": "Delaware Division of Public Health Put Out a Message - \"You would have to run five miles a day for a week to lost just one pound of fat (blatantly false, but whatever) #Gettingvaccinated\" sounds a lot easier. Protect yourself and those you love from the #Delta variant\"",
+                            "subTitle": [
+                                "Forget eating healthy, losing weight, and living a healthy lifestyle. Just get an experimental injection! Government's are only here to make your lives worse, so you become dependent upon them, so they have an excuse to exist."
+                            ],
+                            "content": ["instagram.com/p/CS42UVBHHdi/"]
+                        },
+                        {
+                            "date": "08/21/2021",
+                            "title": "The Nuremberg Code. 74 years old today. First principle: in any medical experiment, the voluntary consent of the human subject is absolutely essential without force, fraud, deceit, duress or coercion",
+                            "subTitle": [
+                                "Explain to me how constant running ads, giving people incentives like money and food, corporations, employers and governments restricting rights/movement of people if they don't get this experimental injection (they are still in clinical trials) is not force, coercion, deceit and fraud? We are witnessing the most anti-human movement across the world from these psychopaths that call themselves leaders."
+                            ],
+                            "content": ["https://twitter.com/thelightofsion/status/1429216116853903360"]
                         }
                     ]
                 },
@@ -1793,16 +1908,132 @@
                             "content": ["https://www.infowars.com/posts/watch-don-lemon-says-unvaccinated-people-shouldnt-be-able-to-work-or-buy-food/"]
                         },
                         {
-                            "date": "",
-                            "title": "",
-                            "subTitle": [],
-                            "content": [""]
+                            "date": "8/3/21",
+                            "title": "Japanese Government Starts \"Naming And Shaming\" Quarantine Rulebreakers",
+                            "subTitle": [
+                                "[2]"
+                            ],
+                            "content": ["https://www.zerohedge.com/covid-19/japanese-government-starts-naming-and-shaming-quarantine-rulebreakers"]
                         },
                         {
-                            "date": "",
-                            "title": "",
-                            "subTitle": [],
-                            "content": [""]
+                            "date": "8/6/21",
+                            "title": "The Purge Begins: CNN Fires Three Employees For Coming To Work Unvaccinated",
+                            "subTitle": [
+                                "[3]"
+                            ],
+                            "content": ["https://www.zerohedge.com/markets/purge-begins-cnn-fires-three-employees-coming-work-unvaccinated"]
+                        },
+                        {
+                            "date": "8/6/21",
+                            "title": "'No Jab, No Job' - United Airlines Becomes First Airline To Mandate Vaccines For All Employees",
+                            "subTitle": [
+                                "[3]"
+                            ],
+                            "content": ["https://www.zerohedge.com/economics/united-becomes-first-airline-mandate-vaccines-all-employees"]
+                        },
+                        {
+                            "date": "8/11/21",
+                            "title": "American, Delta, Southwest Airlines: No Immediate Plans For COVID-19 Vaccine Mandates (Tick, Tock...Just a matter of time...Will check back later)",
+                            "subTitle": [
+                                "[3]"
+                            ],
+                            "content": ["https://www.zerohedge.com/covid-19/american-delta-southwest-airlines-no-immediate-plans-covid-19-vaccine-mandates"]
+                        },
+                        {
+                            "date": "8/5/21",
+                            "title": "Atlantic Magazine Billionaire Owner and Widow of Steve Jobs Publishes That Unvaccinated Should Be Put On The No-Fly List, Owns 2 Private Jets",
+                            "subTitle": [
+                                "[3]"
+                            ],
+                            "content": ["https://twitter.com/jackfbn/status/1423245655829532673"]
+                        },
+                        {
+                            "date": "8/10/21",
+                            "title": "CDC COVID Document Discussed Relocating “High Risk” Individuals to “Camps”",
+                            "subTitle": [
+                                "[7]"
+                            ],
+                            "content": ["https://summit.news/2021/08/10/cdc-covid-document-discussed-relocating-high-risk-individuals-to-camps/"]
+                        },
+                        {
+                            "date": "8/13/21",
+                            "title": "Man Forcibly Imprisoned in Mental Asylum For Different Opinion on COVID...And His Wife Ousted Him!",
+                            "subTitle": [
+                                "[7]"
+                            ],
+                            "content": ["https://www.youtube.com/watch?v=V-EnA2LSKsc"]
+                        },
+                        {
+                            "date": "8/17/21",
+                            "title": "Australian Police Checking In On a \"Positive\" Case Tell Man He Needs to Go To a \"Health Hotel\" For an \"Indefinite Stay\"",
+                            "subTitle": [
+                                "[7]"
+                            ],
+                            "content": ["https://twitter.com/VerumBellator1/status/1427620711959457792"]
+                        },
+                        {
+                            "date": "8/19/21",
+                            "title": "British Man In Singapore Given 6 Weeks In Prison For Not Wearing Face Mask, Psychiatric Assessment",
+                            "subTitle": [
+                                "[7]"
+                            ],
+                            "content": ["https://www.zerohedge.com/covid-19/british-man-singapore-given-6-weeks-prison-not-wearing-face-mask-psychiatric-assessment"]
+                        },
+                        {
+                            "date": "8/19/21",
+                            "title": "Arrest Warrant Issued For Australian Man Who Tested Positive For \"COVID\"...Really",
+                            "subTitle": [
+                                "[7]"
+                            ],
+                            "content": ["https://twitter.com/BernieSpofforth/status/1429157099796377606"]
+                        },
+                        {
+                            "date": "8/21/21",
+                            "title": "Germany's Largest Amusement Park Segregates Vaxx'd From Unvaxx'd With Colored Wristbands",
+                            "subTitle": [
+                                "[2]"
+                            ],
+                            "content": ["zerohedge.com/covid-19/germanys-largest-amusement-park-segregates-vaxxd-unvaxxd-colored-wristbands"]
+                        },
+                        {
+                            "date": "8/22/21",
+                            "title": "Literally a News Story in Australia About a Man Who Tested Positive and is Now Being Hunted Down",
+                            "subTitle": [
+                                "[7]"
+                            ],
+                            "content": ["https://twitter.com/CharlieEmmaUK/status/1429471216260235266"]
+                        },
+                        {
+                            "date": "8/23/21",
+                            "title": "Bush Era NSA Head Says It Is A \"Good Idea\" To Send Unvaxx'd Trump Supporters To Afghanistan",
+                            "subTitle": [
+                                "[4,5,7]"
+                            ],
+                            "content": ["https://www.zerohedge.com/political/bush-era-nsa-head-says-its-good-idea-send-unvaxxd-trump-supporters-afghanistan"]
+                        },
+                        {
+                            "date": "8/23/21",
+                            "title": "Anecodote: \"I was talking to a friend of mine today. Her sister is 4 months pregnant. Her sister said she didn’t want the vaxx but her doctor said if she doesn’t get it, she may be last on the list to get a hospital bed when she has to give birth and there may not be any available beds.\"",
+                            "subTitle": [
+                                "[3]"
+                            ],
+                            "content": ["https://twitter.com/BritMartinez/status/1429944575230099461"]
+                        },
+                        {
+                            "date": "8/24/21",
+                            "title": "Reportedly, Pregnant Woman With Heart Problems Denied To Be Seen By Doctors Since She Isn't Vaccinated",
+                            "subTitle": [
+                                "[3]"
+                            ],
+                            "content": ["https://twitter.com/Lukewearechange/status/1430187668881780742"]
+                        },
+                        {
+                            "date": "8/25/21",
+                            "title": "Saints Tickets Are Selling For Less Than $1 After The Team Requires Fans To Be Vaccinated Or Have A Negative COVID-19 Test",
+                            "subTitle": [
+                                "[3]"
+                            ],
+                            "content": ["https://dailycaller.com/2021/08/23/saints-jaguars-tickets-1-coronavirus-vaccine-negative-test/"]
                         }
                     ]
                 }
@@ -2016,6 +2247,55 @@
                             "title": "New Ad Showing Woman Struggling to Breath to Hit the Air in Sydney",
                             "subTitle": [],
                             "content": ["https://www.dailymail.co.uk/news/article-9777141/Watch-distressing-new-coronavirus-ad-Australia-showing-young-woman-struggling-breathe.html"]
+                        },
+                        {
+                            "date": "04/27/21",
+                            "title": "India (Media showed images of people falling down in the streets from a gas leak that happened a year a go, not covid)",
+                            "subTitle": [
+                                "But the media still labeled it as people falling down in the middle of streets from covid. Similar to the images out of China of people falling down in the streets at the very beginning of this...Almost like the media was intentionally deceiving us from the start about how deadly this all is"
+                            ],
+                            "content": [
+                                "https://twitter.com/LeighStewy/status/1387146359611006976",
+                                "https://factcheck.afp.com/video-shows-victims-gas-leak-indian-chemical-plant-2020"
+                            ]
+                        },
+                        {
+                            "date": "04/01/2020",
+                            "title": "New York Elmhurst Hospital (the supposed epicenter of covid in 2020. CBS used images from Italy but presented them as New York)",
+                            "subTitle": [],
+                            "content": ["https://nypost.com/2020/04/01/cbs-admits-to-using-footage-from-italy-in-report-about-nyc/"]
+                        },
+                        {
+                            "date": "Current",
+                            "title": "Pharma controls media and government (through paying for ads on TV and lobbying in government)",
+                            "subTitle": [
+                                "US Medical marketing hit $30 billion, drug ads top surge",
+                                "Lobbying Record Amounts (paying off politicians--resulting in government actions that benefit pharma [continuted lockdowns, constant fear, mandatory vaccines, etc])"
+                            ],
+                            "content": [
+                                "https://apnews.com/article/f44a7baa710d458ca50edd66affc1b91",
+                                "https://www.cnn.com/2019/01/23/health/phrma-lobbying-costs-bn/index.html",
+                                "https://www.investopedia.com/investing/which-industry-spends-most-lobbying-antm-so/",
+                                "https://www.opensecrets.org/news/2019/10/big-pharma-continues-to-top-lobbying-spending/"
+                            ]
+                        },
+                        {
+                            "date": "11/07/2016",
+                            "title": "When people are in a fear-state they don't think rationally. They will do anything to get rid of the fear, including things that are detrimental to themselves",
+                            "subTitle": [],
+                            "content": ["https://www.psychologytoday.com/us/blog/overcoming-destructive-anger/201611/the-power-emotions-override-rational-thought"]
+                        },
+                        {
+                            "date": "05/17/2021",
+                            "title": "Scientists in the UK Working as advisors to the government, expressed regret for using what they now admit to be \"unethical\" and \"totalitarian\" methods of instilling fear in the population in order to control behavior during the pandemic",
+                            "subTitle": [],
+                            "content": ["https://www.newswars.com/report-government-scientific-advisors-admit-they-used-totalitarian-fear-tactics-to-control-people-during-pandemic/"]
+                        },
+                        {
+                            "date": "11/12/2014",
+                            "title": "Being in a fear and stress state chronically, leaves you much more susceptible to illness. How convienent they have the 24/7 fear porn running, telling everyone to be scared, and voila! people become sick. This is why Texas and Florida are doing great, because they're not scared and are not buying into the fear/propaganda",
+                            "subTitle": [],
+                            "content": ["https://www.psychologytoday.com/us/blog/how-the-mind-heals-the-body/201411/how-stress-affects-the-immune-system"]
                         }
                     ]
                 },
