@@ -313,7 +313,136 @@
             },
             {
                 "id": 3,
-                "type": "Follow The Money"
+                "type": "Follow The Money",
+                "articles": [
+                    {
+                        "date": "05/22/2017",
+                        "title": "Pharma is in the business of treating, not curing, illness",
+                        "subTitle": [],
+                        "content": ["https://www.healthsystemtracker.org/chart-collection/much-u-s-spend-treat-different-diseases/#item-start"]
+                    },
+                    {
+                        "date": "08/02/2021",
+                        "title": "Moderna, Pfizer Hike Vaccine Prices By Up To 25%",
+                        "subTitle": [],
+                        "content": ["https://www.zerohedge.com/covid-19/moderna-pfizer-hike-vaccine-prices-25"]
+                    },
+                    {
+                        "date": "",
+                        "title": "Anthony Fauci sets stage for mandatory — lucrative! — vaccine. Here Is An Important Point In The Article:",
+                        "subTitle": [
+                            "What great news for Bill Gates who just announced his foundation is going to spend billions of dollars to help build factories for seven possible coronavirus vaccine makers. “Spend” is probably the wrong word here. Invest is more like it."
+                        ],
+                        "content": ["https://www.washingtontimes.com/news/2020/apr/8/anthony-fauci-sets-stage-mandatory-vaccine/"]
+                    },
+                    {
+                        "date": "10/20/2020",
+                        "title": "Bill Gates Back In 2010, He pledged to give away his wealth, but 10 years later he's doubled it. Here An Important Point From The Article:",
+                        "subTitle": [
+                            "\"Bill Gates is a case in point. When he made the pledge in 2010, his net worth was $53 billion. Ten years later, his net worth is $115 billion.\""
+                        ],
+                        "content": ["https://www.inc.com/geoffrey-james/bill-gates-promised-to-give-away-his-wealth-well-that-was-bs.html"]
+                    },
+                    {
+                        "date": "03/13/2020",
+                        "title": "Bill Gates Stepped down as CEO of Microsoft to focus on \"Philantropy\" in March 2020",
+                        "subTitle": [
+                            "Curious timing dont ya think?"
+                        ],
+                        "content": ["https://www.theverge.com/2020/3/13/21179214/bill-gates-steps-down-microsoft-board-philanthropy"]
+                    },
+                    {
+                        "date": "05/12/2020",
+                        "title": "Bill Gates' bragged on TV that investing in vaccine research has made him way more money than if he put that to use in the stock market",
+                        "subTitle": [
+                            "He's not giving his money away in good gesture. He expects returns (either power, influence, and/or more money)"
+                        ],
+                        "content": ["https://odysee.com/@SuperStoic:0/Bill-Gates-CNBC-Vaccine-Return-On-Investment:7"]
+                    },
+                    {
+                        "date": "05/29/2020",
+                        "title": "Bill Gates is The Second Largest Donor To The WHO",
+                        "subTitle": [
+                            "But I'm sure he has no influence over global health policy at all..."
+                        ],
+                        "content": ["https://www.usnews.com/news/articles/2020-05-29/gates-foundation-donations-to-who-nearly-match-those-from-us-government"]
+                    },
+                    {
+                        "date": "09/24/2020",
+                        "title": "Bill Gates Has Big Ties in Funding and Stock Interest in Pfizer",
+                        "subTitle": [
+                            "I wonder why Pfizer got the nod from the FDA for full approval...It's not like Gates has any influence over the medical community at all..."
+                        ],
+                        "content": ["https://www.msn.com/en-us/money/companies/4-coronavirus-vaccine-stocks-the-bill-melinda-gates-foundation-is-betting-on/ar-BB19nssN"]
+                    },
+                    {
+                        "date": "Current",
+                        "title": "Bill Gates Has Close Ties with Moderna's mRNA research",
+                        "subTitle": [],
+                        "content": ["https://www.modernatx.com/ecosystem/strategic-collaborators/foundations-advancing-mrna-science-and-research"]
+                    },
+                    {
+                        "date": "Current",
+                        "title": "Bill Gates Has Connections and Supports the NIH (NIAID [where Fauci works] is a subsidiary) to the tune of 100 million",
+                        "subTitle": [],
+                        "content": [
+                            "https://www.ajmc.com/view/nih-bill-and-melinda-gates-foundation-collaborate-to-develop-genebased-hiv-treatment",
+                            "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/new-phase-cooperation-between-nih-bill-melinda-gates-foundation"
+                        ]
+                    },
+                    {
+                        "date": "Current",
+                        "title": "Bill Gates Is a Donor (along with DARPA, NIH, and the WHO) to the Imperial College of London",
+                        "subTitle": [
+                            "The Imperial College of London Gave Us Neil Ferguson. The man responsible for creating the first computer models of the spread of covid around the world that were grossly overestimating the amount of deaths. These computer models justified the first lockdowns"
+                        ],
+                        "content": ["https://www.imperial.ac.uk/vaccine-research-network/funding/"]
+                    },
+                    {
+                        "date": "Current",
+                        "title": "Bill Gate Is A Donor to John Hopkins University",
+                        "subTitle": [
+                            "John Hopkins University created the tracking system to track covid \"deaths\" and \"cases\" and also happened to be at Event 201 (see Event 201 section)"
+                        ],
+                        "content": ["https://philanthropynewsdigest.org/news/gates-foundation-awards-40-million-to-johns-hopkins-school-of-public-health"]
+                    },
+                    {
+                        "date": "04/26/2021",
+                        "title": "Bill Gates says \"No\" to sharing vaccine patents/ingredients with global poor because he supports the pharamaceuticals that have patents on these vaccines",
+                        "subTitle": [
+                            "So many people see him as nice guy with his Mr. Rogers sweater routine he puts on T.V., but this man is a ruthless businessman that doesn't care one bit about people. He wants money and control."
+                        ],
+                        "content": ["https://www.salon.com/2021/04/26/bill-gates-says-no-to-sharing-vaccine-formulas-with-global-poor-to-end-pandemic_partner/"]
+                    },
+                    {
+                        "date": "10/12/2019",
+                        "title": "Bill Gates has met with Epstein many times",
+                        "subTitle": [
+                            "Also has financial ties with Jeffery Epstein"
+                        ],
+                        "content": [
+                            "https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html",
+                            "https://www.businessinsider.com/bill-gates-connections-jeffrey-epstein-mit-donations-ronan-farrow-2019-9?op=1"
+                        ]
+                    },
+                    {
+                        "date": "07/20/2021",
+                        "title": "Soros and Gates Buying UK COVID Testing Company",
+                        "subTitle": [
+                            "Curious timing, seeing how the CDC is recommending stopping all PCR testing by years end...",
+                            "Also, why would Soros and Gates buy a testing company unless this is going to keep going on for years and years, if not decades"
+                        ],
+                        "content": ["https://www.zerohedge.com/covid-19/why-are-soros-and-gates-buying-uk-covid-testing-company"]
+                    },
+                    {
+                        "date": "06/25/2020",
+                        "title": "NIH claims joint ownership of Moderna vaccine",
+                        "subTitle": [
+                            "No conflict of interest here. Move along!"
+                        ],
+                        "content": ["https://www.axios.com/moderna-nih-coronavirus-vaccine-ownership-agreements-22051c42-2dee-4b19-938d-099afd71f6a0.html"]
+                    }
+                ]
             }
         ]
         },
@@ -341,11 +470,23 @@
                             "subTitle": [
                                 "potential of increased in mutations of virus, since viruses learn how to get around things",
                                 "could cause vaccine-resistant viruses (similar to antibiotic-resistant bacteria)",
-                                "The concept of Antibody Dependent Enchancement (exactly what the studies showed happened to mice for SARS vaccine and exactly what the vaccine manufacturers said they weren't sure if this would take place with their vaccines)"
+                                "The concept of Antibody Dependent Enchancement (exactly what the studies showed happened to mice for SARS vaccine and exactly what the vaccine manufacturers said they weren't sure if this would take place with their vaccines)",
+                                "Since A.D.E. is delayed, it could take awhile to show up (I'm sure they'll call it COVID-21 or COVID-22)"
                             ],
                             "content": [
                                 "https://youtu.be/ZJZxiNxYLpc?t=1882",
                                 "https://www.bitchute.com/video/RKU4mEe3fCgw/"
+                            ]
+                        },
+                        {
+                            "date": "08/23/2021",
+                            "title": "New variant dubbed ‘Covid-22’ could be more deadly than Delta, expert claims (Right on cue)",
+                            "subTitle": [
+                                "The variants are the damages from the \"vaccines\". It's incredible people are falling for this."    
+                            ],
+                            "content": [
+                                "https://insiderpaper.com/new-variant-covid-22-more-deadly-delta-doctor-sai-reddy/",
+                                "https://www.the-sun.com/health/3525485/new-virus-variant-covid22-more-deadly-delta/"
                             ]
                         },
                         {
@@ -515,18 +656,6 @@
                             "title": "CDC Director Says the Injection No Longer Prevents You From Spreading It",
                             "subTitle": ["But remember! \"It's safe and effective. Get your shot today, so we can end this pandemic! lol\""],
                             "content": ["https://www.realclearpolitics.com/video/2021/08/06/cdc_director_vaccines_no_longer_prevent_you_from_spreading_covid.html#!"]
-                        },
-                        {
-                            "date": "",
-                            "title": "",
-                            "subTitle": [],
-                            "content": [""]
-                        },
-                        {
-                            "date": "",
-                            "title": "",
-                            "subTitle": [],
-                            "content": [""]
                         }
                     ]
                 },
@@ -811,7 +940,10 @@
                         {
                             "date": "12/01/2020",
                             "title": "THIS IS VERY IMPORTANT: Underreporting in Vaccine Adverse Event Reporting System",
-                            "subTitle": ["The number of reported adverse reaction events to vaccines is heavily underreported. Not to mention with the amount of propaganda about these COVID \"vaccines\" being pushed, people don't want to speak out about their stories because they fear they'll be labeled a conspiracy theorist or fear they won't be accepted in their friend group"],
+                            "subTitle": [
+                                "The number of reported adverse reaction events to vaccines is heavily underreported. Not to mention with the amount of propaganda about these COVID \"vaccines\" being pushed, people don't want to speak out about their stories because they fear they'll be labeled a conspiracy theorist or fear they won't be accepted in their friend group",
+                                "From the Results: Adverse events from drugs and vaccines are common, but underreported. Although 25% of ambulatory patients experience an adverse drug event, less than 0.3% of all adverse drug events and 1-13% of serious events are reported to the Food and Drug Administration (FDA). Likewise, fewer than 1% of vaccine adverse events are reported"
+                            ],
                             "content": ["https://www.icandecide.org/wp-content/uploads/2020/12/Lazarus-report.pdf"]
                         },
                         {
@@ -839,7 +971,410 @@
             "types": [
                 {
                     "id": 1,
-                    "type": "Vaccine Passports",
+                    "type": "Mandatory Vaccines/Passports",
+                    "articles": [
+                        {
+                            "date": "03/10/2021",
+                            "title": "Island of Cyprus Announced \"Coronapass\" Vaccine Passport System",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/coronapass-vaccine-passport-system-be-imposed-cyprus"]
+                        },
+                        {
+                            "date": "04/01/2021",
+                            "title": "CNBC Video Titled: Why You Can Be Forced To Get The COVID Vaccine",
+                            "subTitle": [],
+                            "content": ["https://www.youtube.com/watch?v=z8cYMT3ds4o"]
+                        },
+                        {
+                            "date": "04/30/2021",
+                            "title": "Biden Mulls Vax Mandate For All US Military After Huge Numbers Refused",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/medical/biden-mulls-vax-mandate-all-us-military-after-huge-numbers-refused"]
+                        },
+                        {
+                            "date": "04/30/2021",
+                            "title": "UK to release digital vaccine passport",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/geopolitical/uk-will-release-digital-vaccine-passport-green-list-travel-destinations-next-month"]
+                        },
+                        {
+                            "date": "05/14/2021",
+                            "title": "Delta Airlines: Will Require COVID Vaccine For New Employees",
+                            "subTitle": [],
+                            "content": ["https://www.reuters.com/world/us/delta-will-require-covid-19-vaccine-new-employees-2021-05-14/?taid=609e92cefc4c4c000189c574&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter"]
+                        },
+                        {
+                            "date": "05/19/2021",
+                            "title": "Oregon to require businesses that they must put in place a system to check for vaccination if people want to enter without a mask",
+                            "subTitle": [],
+                            "content": ["https://www.nytimes.com/live/2021/05/19/world/covid-vaccine-coronavirus-mask#vaccine-status-mask-requirement-oregon"]
+                        },
+                        {
+                            "date": "05/20/2020",
+                            "title": "Privacy Watchdog Group Found the Small Print in the UK NHS vaccine passport app to show domestic use cases",
+                            "subTitle": [
+                                "This is already being normalized for international travel. Up next is domestic travel such as going to events, games, etc. Here's your #newnormal. I mean giving up your medical history, personal information up to the government to store in a centralized database is no big deal right?"
+                            ],
+                            "content": ["https://summit.news/2021/05/20/privacy-watchdog-uk-covid-passport-small-print-says-it-will-be-used-domestically/"]
+                        },
+                        {
+                            "date": "06/16/2021",
+                            "title": "Mandatory Vaccines for NHS Staff and CareHome Staff",
+                            "subTitle": [],
+                            "content": ["https://www.gov.uk/government/news/everyone-working-in-care-homes-to-be-fully-vaccinated-under-new-law-to-protect-residents"]
+                        },
+                        {
+                            "date": "04/25/2021",
+                            "title": "EU Announces Plan to Only Allow Vaccinated Americans to Visit This Summer and Must Provide Vaccine Passport. Former Bilderberg member announced this by decree",
+                            "subTitle": [],
+                            "content": [
+                                "https://dailycaller.com/2021/04/25/vaccine-passport-european-union-europe-travel-ursula-von-der-leyen/",
+                                "https://www.epochtimes.de/politik/ausland/bilderberger-beraten-in-der-schweiz-ueber-die-zukunft-europas-auch-ursula-von-der-leyen-ist-dabei-a2900076.html"
+                            ]
+                        },
+                        {
+                            "date": "06/11/2021",
+                            "title": "Germany Rolls Out First EU \"Vaccine Passport\"",
+                            "subTitle": [],
+                            "content": [
+                                "https://www.zerohedge.com/covid-19/germany-rolls-out-first-digital-eu-passport"
+                            ]
+                        },
+                        {
+                            "date": "06/16/2021",
+                            "title": "Pakistan Province Government To Block SIM Cards For Unvaccinated People",
+                            "subTitle": [],
+                            "content": [
+                                "https://www.tribuneindia.com/news/world/provincial-govt-in-pakistans-punjab-to-block-sim-cards-of-unvaccinated-citizens-266890"
+                            ]
+                        },
+                        {
+                            "date": "06/14/2021",
+                            "title": "EU Officially Signs Vaccine Passport",
+                            "subTitle": [],
+                            "content": ["https://www.schengenvisainfo.com/news/eu-presidents-officially-sign-regulation-on-eu-vaccine-passports-for-travel/"]
+                        },
+                        {
+                            "date": "06/29/2021",
+                            "title": "Delta Variant is Being Pushed Hard By These Psychopaths to Lock the World Down Again and Blame People That Didn't Get The Injection",
+                            "subTitle": [],
+                            "content": [
+                                "https://www.cbsnews.com/video/delta-variant-of-coronavirus-first-identified-in-india-has-spread-to-nearly-every-u-s-state/"
+                            ]
+                        },
+                        {
+                            "date": "07/01/2021",
+                            "title": "ArmyTimes Announces to Prep for Mandatory Injections in September, Army Tells Command",
+                            "subTitle": [],
+                            "content": ["https://www.armytimes.com/news/pentagon-congress/2021/07/01/prepare-for-mandatory-covid-vaccines-in-september-army-tells-commands/"]
+                        },
+                        {
+                            "date": "08/23/2021",
+                            "title": "UPDATE: Pentagon Confirms Will Now Require Injection",
+                            "subTitle": [],
+                            "content": ["https://apnews.com/article/business-health-coronavirus-pandemic-e08a6e68308b27ad7653ca9210d953dc?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP"]
+                        },
+                        {
+                            "date": "07/09/2021",
+                            "title": "COVID Passports will be required to enter pubs, restaurants, and clubs says Times of London",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/PoliticsForAlI/status/1413599764013277185"]
+                        },
+                        {
+                            "date": "07/08/2021",
+                            "title": "Trudeau Says Unvaccinated Tourists Won't Be Allowed Into Canada For Quite Awhile",
+                            "subTitle": [],
+                            "content": ["https://www.ctvnews.ca/politics/unvaccinated-tourists-won-t-be-welcome-in-canada-for-quite-a-while-pm-trudeau-says-1.5501924"]
+                        },
+                        {
+                            "date": "07/12/2021",
+                            "title": "WHO Working on \"Digital Wallet\" to Store Vaccination Cert",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/who-working-digital-wallet-store-vaccination-certification-official"]
+                        },
+                        {
+                            "date": "07/13/2021",
+                            "title": "France President Just Announced...\"Unvaccinated will bear the brunt of the restrictions rather than everyone...from the beginning of August, the vax pass will be needed for coffee shops, restaurants, supermarkets, hospitals, trains, buses, etc\"",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Arwenstar/status/1414743644255440896"]
+                        },
+                        {
+                            "date": "07/16/2021",
+                            "title": "Dictator Macron announced by decree that people who enter a bar or restaurant without a covid pass face 6 months in jail while owners who fail to check their status face a 1 year prison sentence and a 45,000 Euro fine",
+                            "subTitle": [],
+                            "content": ["https://summit.news/2021/07/16/french-face-6-months-in-jail-for-entering-a-bar-or-restaurant-without-a-covid-pass/"]
+                        },
+                        {
+                            "date": "07/13/2021",
+                            "title": "Vaccine Passport Firm Says System Could Be 'Redeployed' as National ID Card - The Telegraph Reports",
+                            "subTitle": [
+                                "Exactly what I warned about. Merger of Digital IDs and Vax Passports. All in line with ID2020's initiative. This is a planned conspiracy in the truest sense of the word"
+                            ],
+                            "content": ["https://www.telegraph.co.uk/news/2021/07/13/vaccine-passport-firm-says-system-could-redeployed-national/"]
+                        },
+                        {
+                            "date": "",
+                            "title": "McConnel: \"These shots need to get in everybody’s arm as rapidly as possible, or we’re going to be back in a situation in the fall that we don’t yearn for that we went through last year\"",
+                            "subTitle": [
+                                "This isn't a right or left issue. It's both criminal parties pushing this agenda. It's much bigger than most people think"
+                            ],
+                            "content": ["https://www.washingtontimes.com/news/2021/jul/21/mitch-mcconnell-urges-americans-to-get-vaccinated-/"]
+                        },
+                        {
+                            "date": "07/23/2021",
+                            "title": "UK Venues That Could Mandate Vaccine Passports Expanding",
+                            "subTitle": [],
+                            "content": [
+                                "https://www.zerohedge.com/covid-19/list-uk-venues-could-mandate-vaccine-passports-already-expanding"
+                            ]
+                        },
+                        {
+                            "date": "07/22/2021",
+                            "title": "Leaked Internal Email From CNN Bureau Chief Says ‘Carrot’ is No Longer Working in Drive to Vaccinate Americans",
+                            "subTitle": [
+                                "In other words, it's time to bring out the mandates and full force of government"
+                            ],
+                            "content": ["https://summit.news/2021/07/22/cnn-bureau-chief-says-carrot-is-no-longer-working-in-drive-to-vaccinate-americans/"]
+                        },
+                        {
+                            "date": "07/26/2021",
+                            "title": "Germany: \"Vaccinated Will Have More Freedom\", As Unvaxxed Banned From Cinemas, Restaurants",
+                            "subTitle": [],
+                            "content": ["https://summit.news/2021/07/26/germany-vaccinated-will-have-more-freedom-as-unvaxxed-banned-from-cinemas-restaurants/"]
+                        },
+                        {
+                            "date": "07/27/2021",
+                            "title": "Deblasio: \"We tried voluntary. We could not have been more kind and compassionate as a country…the voluntary phase is over. Voluntary alone doesn’t work, it’s time for mandates\"",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/camus37/status/1420142195403808769"]
+                        },
+                        {
+                            "date": "07/28/2021",
+                            "title": "And Here We Go! - CDC Hints At Health Passes",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/cdc-director-fearmongers-covid-may-be-few-mutations-away-evading-vaccines"]
+                        },
+                        {
+                            "date": "07/29/2021",
+                            "title": "Biden Mandates All Federal Workers Must Take The Injection...Except Postal Workers",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/american-postal-workers-union-opposes-mandatory-vaccinations-time"]
+                        },
+                        {
+                            "date": "07/29/2021",
+                            "title": "List of Places/Companies Requiring Injection",
+                            "subTitle": [],
+                            "content": ["https://www.newswars.com/here-are-all-the-american-organizations-mandating-vaccinations-or-adopting-vaccine-passports/"]
+                        },
+                        {
+                            "date": "07/29/2021",
+                            "title": "Facebook and Google Now Require All Employees To Get The Injection",
+                            "subTitle": [
+                                "This is how it starts. Soon it will trickle down to medium sized companies and then the smaller companies will feel more inclined and feel safe to do so as well. The next few years will require people to make some very difficult decisions about their freedoms vs their financial safety net"
+                            ],
+                            "content": ["https://summit.news/2021/07/29/google-and-facebook-announce-mandatory-vaccines-for-employees/"]
+                        },
+                        {
+                            "date": "07/31/2021",
+                            "title": "Mexican Yucatan Penninsula Hotel Resorts Requiring Proof Of Vaccinations or Negative Test",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/hotels-mexican-resort-towns-now-require-proof-vaccination"]
+                        },
+                        {
+                            "date": "08/02/2021",
+                            "title": "Cuomo Demands Private Businesses to Only Accept Vaxxed Individuals",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/cuomo-demands-private-businesses-ban-unvaccinated-customers"]
+                        },
+                        {
+                            "date": "08/03/2021",
+                            "title": "And Here We Go - NYC Orders Restaurants And Gyms To Demand Proof Of Vaccination From All Customers",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/nyc-orders-restaurants-and-gyms-demand-proof-vaccination-all-customers"]
+                        },
+                        {
+                            "date": "08/03/2021",
+                            "title": "Watch: White House COVID Response Coordinator Says It's \"Time To Impose Vaccine Requirements\"",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/watch-white-house-covid-response-coordinator-says-its-time-impose-vaccine-requirements"]
+                        },
+                        {
+                            "date": "08/03/2021",
+                            "title": "Fauci Says: \"Mandates Will Be Necessary To Convince 93 Million Americans To Accept The Vaccine\"",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/experts-move-goalposts-declare-herd-immunity-threshold-now-90-due-delta"]
+                        },
+                        {
+                            "date": "08/06/2021",
+                            "title": "France, Italy Set To Unleash Increasingly-Restrictive COVID-19 Health Passes",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/france-italy-set-roll-out-increasingly-restrictive-covid-19-health-passes"]
+                        },
+                        {
+                            "date": "08/07/2021",
+                            "title": "UK Transport Minister Says Vaccines Will Be Needed For Travel \"Forevermore\"",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/uk-transport-minister-says-vaccines-will-be-needed-travel-forevermore"]
+                        },
+                        {
+                            "date": "08/11/2021",
+                            "title": "Italy To Extend Vaccine Passports To Public Transport & Schools",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/italy-extend-vaccine-passports-public-transport-schools"]
+                        },
+                        {
+                            "date": "08/10/2021",
+                            "title": "Video: French Police Patrol Cafes Asking To See Citizens’ Vaccine Papers",
+                            "subTitle": [
+                                "How can anyone argue this isn't going down the same road as Nazi Germany?"
+                            ],
+                            "content": ["https://summit.news/2021/08/10/video-french-police-patrol-cafes-asking-to-see-citizens-vaccine-papers/"]
+                        },
+                        {
+                            "date": "08/10/2021",
+                            "title": "Video Showing Nurse Explaining How She Was Bullied, Intimidated Into Getting The Injection",
+                            "subTitle": [],
+                            "content": ["https://www.youtube.com/watch?v=X-f6S-iCc3A"]
+                        },
+                        {
+                            "date": "08/10/2021",
+                            "title": "Former Biden White House Advisor for COVID Response Says We'll See Some Sort of Vaccination Tracking Beyond Paper in About 3 1/2 Weeks...",
+                            "subTitle": [
+                                "Domestic Passports Incoming..."
+                            ],
+                            "content": ["https://twitter.com/ASlavitt/status/1425307019641245700"]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "A House Bill Being Proposed Will Require Any Individual Traveling On a flight that departs from or arrives to an airport inside the United States is fully vaccinated,and for other purposes",
+                            "subTitle": [
+                                "You can kiss traveling freely goodbye for the rest of our lives. Unless we revolt against these tyrants"
+                            ],
+                            "content": ["https://twitter.com/ToneVays/status/1426027296629002247"]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "San Francisco to Require Proof of Covid Vaccination to Enter Restaurants, Gyms, Bars, Theaters",
+                            "subTitle": [],
+                            "content": ["https://www.thegatewaypundit.com/2021/08/san-francisco-require-proof-covid-vaccination-enter-restaurants-gyms-bars-theaters/"]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "The Premier of Victoria has asserted that authorities \"won’t hesitate\" to go \"door-to-door\" to carry out mandatory COVID tests on Australians",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Lukewearechange/status/1426244617222164481"]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "Father-Son Tourists Arrested For Entering Hawaii With Fake Vaccination Cards",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/father-son-tourists-arrested-entering-hawaii-fake-vaccination-cards"]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "Canada Now Requires Anyone Flying or Taking A Train To Be Vaccinated",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/ezralevant/status/1426275375911473158"]
+                        },
+                        {
+                            "date": "08/18/2021",
+                            "title": "Apple, Samsung and Google Have Announced Plans for Features To Make It Easy To Verify Vaccination Status With QR Code",
+                            "subTitle": [],
+                            "content": "https://www.nbcnews.com/tech/tech-news/proof-vaccination-tap-smartphone-developers-want-make-easy-rcna1689?cid=sm_npd_nn_tw_ma"
+                        },
+                        {
+                            "date": "08/17/2021",
+                            "title": "Australian Health Minister Announces 24,000 Students Will Be Injected In Stadium Without Parental Supervision",
+                            "subTitle": [
+                                "The fact that any parent would allow this to happen speaks louder than anything else. These parents are not advocates for their children, in fact they are lining them up to be sacrificied and injured. I feel sorry for the  children because they don't understand what's going on, but these parent's are so brainwashed to the point where government has become their daddy and they have no feelings of responsibility anymore"
+                            ],
+                            "content": ["https://www.infowars.com/posts/watch-australian-health-minister-announces-24000-students-will-be-injected-in-stadium-without-parental-supervision/"]
+                        },
+                        {
+                            "date": "08/20/2021",
+                            "title": "French Supermarkets Reportedly Hiring Bouncers To Deny and Throw Out People Who Don't Have a COVID Pass",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Lukewearechange/status/1428774901763166217"]
+                        },
+                        {
+                            "date": "08/22/2021",
+                            "title": "Connecticut Allows Patients, Their Doctors, & Local Health Officials To Access COVID-19 Vaccination Records",
+                            "subTitle": [
+                                "What happened to HIPPA?"
+                            ],
+                            "content": ["https://www.zerohedge.com/political/connecticut-allows-patients-their-doctors-local-health-officials-access-covid-19"]
+                        },
+                        {
+                            "date": "08/22/2021",
+                            "title": "Surgeon General: Vaccine Mandates at Businesses, Colleges ‘A Very Reasonable Thing to Do’",
+                            "subTitle": [],
+                            "content": ["newswars.com/surgeon-general-vaccine-mandates-at-businesses-colleges-a-very-reasonable-thing-to-do/"]
+                        },
+                        {
+                            "date": "08/23/2021",
+                            "title": "French People Not Allowed In Supermarket Without Their COVID Pass",
+                            "subTitle": [
+                                "I predicted this would happen early 2020. But I was assumed to be a crazy conspiracy theorist."
+                            ],
+                            "content": ["https://twitter.com/Lukewearechange/status/1428354633873825808"]
+                        },
+                        {
+                            "date": "08/23/2021",
+                            "title": "FDA Has Approved The Pfizer Injection",
+                            "subTitle": [
+                                "This just opened the door to widespread vaccine mandates.",
+                                "I'm sure there were no kick-backs or favors done at all for this to happen. BTW, for any other vaccine with the number of adverse reactions and deaths that this injection has caused, would have been pulled from the market and re-evaluated. I wonder why this one is getting the nod from the \"Regulators\"? (Rhetorical question)",
+                                "Additionally, there were no public hearings about this and they completely skipped the advisory committee approval",
+                                "Inventor of mRNA Vaccine Technology Retweets Article Asking, \"What's the Rush?\""
+                            ],
+                            "content": [
+                                "https://apnews.com/article/coronavirus-vaccine-pfizer-approval-1361ff61d06b815652a08a7cc0683a72?utm_medium=AP&utm_campaign=SocialFlow&utm_source=Twitter",
+                                "https://twitter.com/RWMaloneMD/status/1429950697190080514"
+                            ]
+                        },
+                        {
+                            "date": "08/23/2021",
+                            "title": "Pfizer's Vaccine Approval Letter Contains Dates Of When Several Safety and Efficacy Studies Will Be Completed (ex: Pregnancy and Infant Outcomes, Occurrence of Myocarditis and Pericarditis) And Not Surprisingly, the Dates Are 2022 through 2026",
+                            "subTitle": [
+                                "But yeah, let's just approve this most rushed vaccine in history with the highest adverse reaction rate percentage of any vaccine. You know, for people's health and totally not money and control"
+                            ],
+                            "content": ["https://twitter.com/Rothbard1776/status/1429824315789389829"]
+                        },
+                        {
+                            "date": "08/23/2021",
+                            "title": "NOW - Dictator Biden calls on U.S. companies to mandate the #COVID19 vaccine for employees following the FDA decision",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/disclosetv/status/1429869459171422210"]
+                        },
+                        {
+                            "date": "08/24/2021",
+                            "title": "Pfizer and Moderna Clinical Trials That Were Part of The FDA Approval Process Had Their Control Groups Scrubbed From The Study. Without a control group, there is no way to determine efficacy",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/pfizer-just-got-full-fda-approval-its-covid-vaccine-theres-just-one-thing"]
+                        },
+                        {
+                            "date": "08/23/2021",
+                            "title": "NYC Orders 150,000 Teachers & School Staff To Either Get Vaccinated Or Find A New Job; NJ Orders Jabs For State Workers",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/nyc-orders-150000-teachers-school-staff-either-get-vaccinated-or-find-new-job"]
+                        },
+                        {
+                            "date": "08/24/2021",
+                            "title": "Fauci Goes On His Favorite Government Propaganda Outlet, CNN, To Push For Mandatory Vaccines Now That They Pushed Out Their Favorite Injection, Pfizer",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/time-has-come-enough-enough-fauci-dismisses-freedom-call-vaccine-mandates"]
+                        },
+                        {
+                            "date": "08/25/2021",
+                            "title": "Delta Airlines To Impose $200 Monthly Fine On Unvaccinated Employees",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/delta-impose-200-monthly-fine-unvaccinated-employees"]
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "type": "Government's Effect On You",
                     "articles": [
                         {
                             "date": "",
@@ -955,16 +1490,106 @@
                     "type": "The Great Reset",
                     "articles": [
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "05/15/2021",
+                            "title": "Timeline of The Great Reset",
+                            "subTitle": [
+                                "Surprise! This has been in the works for sometime now"
+                            ],
+                            "content": ["https://www.zerohedge.com/geopolitical/timeline-great-reset-agenda"]
+                        },
+                        {
+                            "date": "07/19/2020",
+                            "title": "Klaus Schaub, head of the WEF, came out with a book just a few months into all of this titled, \"COVID-19: the Great Reset\"",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.amazon.com/COVID-19-Great-Reset-Klaus-Schwab/dp/2940631123"]
                         },
                         {
                             "date": "",
-                            "title": "",
-                            "subTitle": [],
+                            "title": "Klaus Schaub's Greatest Quotes: (He is unelectable, untouchable, unaccountable. But he along with his gang of psychopaths, are making decisions for you and the world, which let's be honest, benefits them and not you.)",
+                            "subTitle": [
+                                "\"Even crossing a national border might one day involve a detailed brain scan to assess an individual’s security risk.\"",
+                                "\"We will have: \"active implantable microchips that break the skin barrier of our bodies.\"\"",
+                                "This new era of the global reset will: \"lead to a fusion of our physical, digital and biological identity\"",
+                                "\"As capabilities in this area improve, the temptation for law enforcement agencies and courts to use techniques to determine the likelihood of criminal activity, assess guilt or even possibly retrieve memories directly from people’s brains will increase\"",
+                                "\"We all know, but still pay insufficient attention, to the frightening scenario of a comprehensive cyber attack could bring a complete halt to the power supply, transportation, hospital services, our society as a whole. The COVID-19 crisis would be seen in this respect as a small disturbance in comparison to a major cyberattack.\""
+                            ],
                             "content": [""]
+                        },
+                        {
+                            "date": "09/27/2018",
+                            "title": "Christine Legarde, Head of the IMF at the time, in 2014 spoke about a \"Great Economic Reset\" being needed on a global scale",
+                            "subTitle": [],
+                            "content": ["https://thedailycoin.org/2018/09/27/the-everything-bubble-when-will-it-finally-crash/"]
+                        },
+                        {
+                            "date": "12/03/2020",
+                            "title": "John Kerry, now Special Presidential Envoy for Climate, says he's a major supporter of the Great Reset, echoing the WEF",
+                            "subTitle": [],
+                            "content": ["https://www.msn.com/en-us/news/politics/john-kerry-reveals-bidens-devotion-to-radical-great-reset-movement/ar-BB1bBu34"]
+                        },
+                        {
+                            "date": "01/29/2021",
+                            "title": "World Leaders Pledge Support to Great Reset. This is coordinated. It's not an accident. Either it's been planned from the beginning, or the are taking full advantage of COVID to push their agendas; Agendas we don't consent to or vote on",
+                            "subTitle": [],
+                            "content": ["https://www.msn.com/en-us/news/world/world-leaders-pledge-a-great-reset-after-the-pandemic/ar-BB1dc9Tx"]
+                        },
+                        {
+                            "date": "05/18/2021",
+                            "title": "WEF Urges Companies to Fire/Not Employ People That Don't Get The Injection",
+                            "subTitle": [],
+                            "content": ["https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/"]
+                        },
+                        {
+                            "date": "08/18/2021",
+                            "title": "It Seems The WEF Has A Solution To Facial Recognition Being A Problem With Everyone Wearing Masks...They're Just Going To Start Shooting Infared Lasers Into Your Body and Identifying Your Unique Cardiac Rhythm. Totally Not Creepy And Dystopian At ALLL...",
+                            "subTitle": [],
+                            "content": ["https://www.youtube.com/watch?v=z_nu7F2weBw"]
+                        },
+                        {
+                            "date": "04/25/2021",
+                            "title": "\"Build Back Better\" Global Conspiracy",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/CarolineCoramUK/status/1386391762239823872"]
+                        },
+                        {
+                            "date": "02/09/2021",
+                            "title": "Pope is on board with The Great Reset",
+                            "subTitle": [],
+                            "content": ["https://www.washingtontimes.com/news/2021/feb/9/pope-francis-hops-aboard-chilling-globalist-great-/"]
+                        },
+                        {
+                            "date": "04/12/2021",
+                            "title": "DARPA recently announced it's working on a COVID vaccine that will work on all variants and also developing an implantable microchip to detect virus",
+                            "subTitle": [
+                                "I predicted this back in April 20th 2020 when I wrote: \"In the future, I believe everyone will be microchipped with all of their information on the chip, such as healthcare records, bank account, etc\""
+                            ],
+                            "content": ["https://www.zerohedge.com/technology/darpa-working-implantable-microchip-detect-virus"]
+                        },
+                        {
+                            "date": "",
+                            "title": "Everything will become digitized",
+                            "subTitle": [
+                                "Central banks are discussing Central Bank Digital Currencies: everything will be tracked and traced and at anytime, any transaction you do can be blocked"
+                            ],
+                            "content": ["https://twitter.com/awayslice/status/1413250347120930816"]
+                        },
+                        {
+                            "date": "",
+                            "title": "ID2020 is an organization, created in 2016, who's goal is to creat Digital IDs for everyone and have your data on it and was founded by:",
+                            "subTitle": [
+                                "Microsoft (surprise, Bill Gates again)",
+                                "Rockefellar Foundation",
+                                "GAVI (Global Alliance for Vaccines Initiative) -- Digital ID along with Digital Vaccine information. Started their support in 2019. Incredible timing on this one!"
+                            ],
+                            "content": ["https://www.prnewswire.com/news-releases/id2020-alliance-launches-digital-id-program-with-government-of-bangladesh-and-gavi-announces-new-partners-at-annual-summit-300921926.html"]
+                        },
+                        {
+                            "date": "",
+                            "title": "WEF 8 Predictions (Plans) for the Future in 2030",
+                            "subTitle": [
+                                "\"You'll own nothing and you'll be happy\". These psychopaths are telling us what they want for us peasants and it's not good"
+                            ],
+                            "content": ["https://www.bitchute.com/video/ZQSlqGGxa0dB/"]
                         }
                     ]
                 },
@@ -1071,6 +1696,103 @@
                     "type": "10 Steps To Genocide",
                     "articles": [
                         {
+                            "date": "N/A",
+                            "title": "Genocide Steps",
+                            "subTitle": [
+                                "1. Classification: People are divided into \"us and them\"",
+                                "2. Symbolization: People are forced to identify themselves",
+                                "3. Discrimination: People begin to face systemic discrimination",
+                                "4. Polarization: The government broadcasts propaganda to turn the populace against the group",
+                                "5. Dehumanization: People equated with animals, vermin, or diseases",
+                                "6. Organization: The government creates specific groups (police/military) to enforce the policies",
+                                "7. Preparation: Official action to remove/relocate people",
+                                "8. Persecution: Beginning of murders, theft of property, trial massacres",
+                                "9. Extermination: Wholesale elimination of the group. It is \"extermination\" and not murder because the people are not considered human",
+                                "10. Denial: The government denies that it commited any crime"
+                            ],
+                            "content": [""]
+                        },
+                        {
+                            "date": "7/14/21",
+                            "title": "Former HHS Sec. Sebelius Compares Being Unvaccinated To Drunk Driving, Second-Hand Smoke",
+                            "subTitle": [
+                                "[5]"
+                            ],
+                            "content": ["https://www.realclearpolitics.com/video/2021/07/14/former_hhs_sec_sebelius_compares_being_unvaccinated_to_drunk_driving_second-hand_smoke.html#!"]
+                        },
+                        {
+                            "date": "7/21/21",
+                            "title": "Vancouver Airport Has Signs For Different Lines For Vaxxed and Unvaxxed People",
+                            "subTitle": [
+                                "[2,7]"
+                            ],
+                            "content": ["https://twitter.com/iansmithfitness/status/1417907708397641730"]
+                        },
+                        {
+                            "date": "7/22/21",
+                            "title": "Australian MP Says Unvaccinated People Need to Be Controlled And Restricted",
+                            "subTitle": [
+                                "[7]"
+                            ],
+                            "content": ["https://www.zerohedge.com/political/australian-mp-says-unvaccinated-people-need-be-controlled-and-restricted"]
+                        },
+                        {
+                            "date": "7/23/21",
+                            "title": "Alabama Governer, \"It's Time to Start Blaming the unvaccinated folks...I want folks to get vaccinated. That's the cure. That prevents everything\"",
+                            "subTitle": [
+                                "[1,2,4]"
+                            ],
+                            "content": ["https://twitter.com/DavidBegnaud/status/1418409503578632195"]
+                        },
+                        {
+                            "date": "7/24/21",
+                            "title": "CNN: \"Segregate Unvaccinated, Make Them Pay For Tests Every Day\"",
+                            "subTitle": [
+                                "[7]"
+                            ],
+                            "content": ["https://www.zerohedge.com/covid-19/cnn-segregate-unvaccinated-make-them-pay-tests-every-day"]
+                        },
+                        {
+                            "date": "7/26/21",
+                            "title": "Steelers Footbal Team Said Will Require Unvaccinated Players to Wear Yellow Wristbands",
+                            "subTitle": [
+                                "[2]"
+                            ],
+                            "content": ["https://twitter.com/NoahStrack/status/1419422050637303808"]
+                        },
+                        {
+                            "date": "7/26/21",
+                            "title": "NY Gov. Cuomo Says: \"We have to knock on those doors, and we have to convince people, put them in cars & drive them and get that vaccine in their arm. That is the mission.\"",
+                            "subTitle": [
+                                "[7]"
+                            ],
+                            "content": ["https://twitter.com/disclosetv/status/1419741200865796103"]
+                        },
+                        {
+                            "date": "7/26/21",
+                            "title": "Newsom Compares Unvaccianted to Drunk Drivers",
+                            "subTitle": [
+                                "[5]"
+                            ],
+                            "content": ["https://www.newswars.com/california-governor-gavin-newsom-says-unvaccinated-americans-are-like-drunk-drivers/"]
+                        },
+                        {
+                            "date": "7/28/21",
+                            "title": "Piers Morgan Calls For Unvaccinated To Be Denied Medical Treatment",
+                            "subTitle": [
+                                "[3]"
+                            ],
+                            "content": ["https://summit.news/2021/07/28/piers-morgan-calls-for-unvaccinated-to-be-denied-medical-treatment/"]
+                        },
+                        {
+                            "date": "7/28/21",
+                            "title": "The Communist News Network's Don Lemon Says Unvaxxed People Shouldn't Be Able to Work Or Buy Food",
+                            "subTitle": [
+                                "[3]"
+                            ],
+                            "content": ["https://www.infowars.com/posts/watch-don-lemon-says-unvaccinated-people-shouldnt-be-able-to-work-or-buy-food/"]
+                        },
+                        {
                             "date": "",
                             "title": "",
                             "subTitle": [],
@@ -1092,19 +1814,208 @@
             "types": [
                 {
                     "id": 1,
-                    "type": "Media",
+                    "type": "Government & Media",
                     "articles": [
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "06/10/2021",
+                            "title": "Fauci claims that anyone attacking him are actually attacking science itself",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.zerohedge.com/covid-19/dr-faucis-preposterous-lie-attacks-me-are-attacks-science"]
+                        },
+                        {
+                            "date": "05/21/2012",
+                            "title": "The NDAA (National Defense Authorization Act) made domestic propaganda legal",
+                            "subTitle": [
+                                "So the government can engage in domestic propaganda, but people still believe the television and government"
+                            ],
+                            "content": ["https://www.businessinsider.com/ndaa-legalizes-propaganda-2012-5?op=1"]
+                        },
+                        {
+                            "date": "08/04/2021",
+                            "title": "Baylor Prof Demands Prosecution Of Criticism Of Fauci And Other 'Scientists' As Hate Crime",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/baylor-prof-demands-prosecution-criticism-fauci-and-other-scientists-hate-crime"]
+                        },
+                        {
+                            "date": "06/09/2021",
+                            "title": "CDC Uses Arbitrary Start and End Dates to Say 12-17 year olds Hospitalizations Are Spiking",
+                            "subTitle": [
+                                "All done to try and get the young injected with their poison. These people are deranged psychopaths"
+                            ],
+                            "content": ["https://www.zerohedge.com/covid-19/contagious-lies-cdc-claims-hospitalization-rising-among-unvaccinated-teens-contrary-its"]
+                        },
+                        {
+                            "date": "08/11/2021",
+                            "title": "CDC Forced To \"Adjust\" Sunday's Florida \"Record\" COVID Count Lower By Almost 50% After State Health Department Cries Foul On Data",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/markets/cdc-forced-adjust-sundays-florida-covid-case-count-lower-almost-50-after-state-health"]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "MSM Found An Academy Award Winning Doctor. This Is Just Pathetic Acting",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/philthese/status/1425484809699151873"]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "From The Hill: \"Fully Vaccinated Man Dies of COVID, Daughter Says He Was Cautious\" - \"Doctors said the condition of the father could have been worse if he was not vaccinated at all",
+                            "subTitle": [
+                                "HAHAHA WTF?"
+                            ],
+                            "content": ["https://twitter.com/Lukewearechange/status/1426012468220940291/photo/1"]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "Australian Government Sopkesperson Says: \"We don't actually need to look at our own data to know the vaccines are effective\"",
+                            "subTitle": [
+                                "Just obey us you slave..."
+                            ],
+                            "content": ["https://twitter.com/Lukewearechange/status/1426246164064653313"]
                         },
                         {
                             "date": "",
-                            "title": "",
+                            "title": "CDC Puts Out PSAs From 2 \"Doctors\" With Them Reading Off A Script. None of their own words are to be found",
+                            "subTitle": [
+                                "First link is the first doctor and the second link is second doctor. Both saying almost identical phrases."
+                            ],
+                            "content": [
+                                "https://www.youtube.com/watch?v=0A1islEAOKw",
+                                "https://www.youtube.com/watch?v=2jh-SUZqGmc"
+                            ]
+                        },
+                        {
+                            "date": "07/22/2021",
+                            "title": "Biden Said You Can't Get COVID If You Get The Vaccinations",
+                            "subTitle": [
+                                "lol well that was a lie"
+                            ],
+                            "content": ["https://www.dailymail.co.uk/news/article-9814723/Biden-flubs-answer-foreign-policy-work-falsely-says-WONT-COVID-shot.html"]
+                        },
+                        {
+                            "date": "07/26/2021",
+                            "title": "Several Twitter Accounts Putting Out Exact Same Tweet of A Story About Them Coming Back From the ER And Dealing With The Delta Variant",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://twitter.com/jakecoco/status/1419777806238687235/photo/1"]
+                        },
+                        {
+                            "date": "07/27/2021",
+                            "title": "Britain Podcaster Offered Significant Cash To Push \"COVID Information\"",
+                            "subTitle": [
+                                "How many podcasters, media pundints, \"journalists\" received money to push \"information\""
+                            ],
+                            "content": [
+                                "https://twitter.com/PrisonPlanet/status/1420088282231214080",
+                                "https://twitter.com/cocker/status/1420082493538152448?ref_src=twsrc%5Etfw"
+                            ]
+                        },
+                        {
+                            "date": "07/27/2021",
+                            "title": "Funny How The Left (Media, Politicians, etc) Casted Doubt About The Injection When Trump Was In Office, But Did an Immediate 180 When Biden Assumed Power",
+                            "subTitle": [
+                                "But surely this isn't political at all..."
+                            ],
+                            "content": ["https://twitter.com/Unscripted0/status/1422653706177290249"]
+                        },
+                        {
+                            "date": "08/10/2021",
+                            "title": "Cuomo Resigning (Remember when Hollywood fawned over him and gave him an Emmy for his COVID propaganda, I mean coverage? Remember how people were discussing that he could join the race to be President? So you have the entire Left establishment in media and government fawning over him, but it's known now he sexually assaults women and kills old people in nursing homes. But yeah, everyone knows that covid is super dangerous...until it's widely exposed that it's not. Honestly, how do people keep believing and supporting politicans and their propaganda mouth pieces in the media and hollywood?)",
+                            "subTitle": [],
+                            "content": ["https://www.cnbc.com/2021/08/10/cuomo-resigns-as-governor-of-new-york-over-sexual-harassment-scandal.html"]
+                        },
+                        {
+                            "date": "08/24/2021",
+                            "title": "Update: Cuomo's Been Stripped Of His Emmy lol",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/virtue-signaling-academy-tv-arts-strips-cuomo-emmy-light-ag-report"]
+                        },
+                        {
+                            "date": "08/13/2021",
+                            "title": "Co-Founder of Snopes Suspended For Mass Plagiarism",
+                            "subTitle": [
+                                "Think about that for a second. The so-called authority on facts is a habitual liar and a fraud. But yeah, believe the fact-checkers because they have no ill intent or an immoral nature lol"
+                            ],
+                            "content": ["https://www.zerohedge.com/political/snopes-suspends-co-founder-mass-plagiarism-staff-revolts"]
+                        },
+                        {
+                            "date": "08/22/2021",
+                            "title": "Western Cape Government in South Africa Told It's Citizens That Having Natural Immunity Isn't Good Enough, You Need to Be Vaccinated To Have Even Better Protection",
+                            "subTitle": [
+                                "No science backing it up, just the word of the government"
+                            ],
+                            "content": ["https://twitter.com/NickHudsonCT/status/1429534551420948488"]
+                        },
+                        {
+                            "date": "08/22/2021",
+                            "title": "FDA Downplaying Using Ivermectin As a Treatment",
+                            "subTitle": [
+                                "Of course they're gonna say this. Completely ignoring the great results it's had in India, other countries, and anecodotal accounts. It's also funny when they say they haven't approved the use of ivermectin as a treatment, but are totally fine with giving pharmaceutical companies emergency use for their experimental injection lol. Also, it's not like the FDA has any financial incentives to push the injection vs treating the illness. No not at all"
+                            ],
+                            "content": ["https://www.fda.gov/consumers/consumer-updates/why-you-should-not-use-ivermectin-treat-or-prevent-covid-19"]
+                        },
+                        {
+                            "date": "02/18/2021",
+                            "title": "NY Times put out an article saying, \"Don't go down the rabbit hole: How critical thinking is not effective in fighting fake news\"",
+                            "subTitle": [
+                                "Yes, they want to push the idea you should just listen to the authorities and don't investigate anything. This was put out in Feb. of 2021. Just a few months before Fauci and Gates being exposed as liars and criminals"
+                            ],
+                            "content": ["https://www.nytimes3xbfgragh.onion/2021/02/18/opinion/fake-news-media-attention.html"]
+                        },
+                        {
+                            "date": "04/07/2021",
+                            "title": "Pope said it's a moral obligation to get vaccinated",
+                            "subTitle": [
+                                "This communist is trying to appeal to his billions of followers to get an experimental injection. Think about how evil that is"
+                            ],
+                            "content": ["https://www.ncregister.com/news/white-house-pope-francis-has-said-there-s-a-moral-obligation-to-get-vaccinated"]
+                        },
+                        {
+                            "date": "10/29/2020",
+                            "title": "Songbird Movie",
+                            "subTitle": [
+                                "A movie that depicts exactly the future these elites want for us. It's called predictive programming. Put out movies and T.V. shows showing certain events and when it finally happens, the populace won't be in total shock, but it will seem familiar and through the movies and t.v. shows, they can depict the government as the saviors and ones to look to, so the populace does that during the actual event"
+                            ],
+                            "content": ["https://www.youtube.com/watch?v=IgxXSfto6Vo"]
+                        },
+                        {
+                            "date": "03/22/2021",
+                            "title": "Children's book celebrating Fauci",
+                            "subTitle": [],
+                            "content": ["https://www.msn.com/en-us/news/us/dr-fauci-to-star-in-new-childrens-book/ar-BB1eQ2ZQ"]
+                        },
+                        {
+                            "date": "10/06/2020",
+                            "title": "Fauci gets his own action figure",
+                            "subTitle": [],
+                            "content": ["https://thehill.com/blogs/in-the-know/in-the-know/519810-fauci-gets-his-own-action-figure"]
+                        },
+                        {
+                            "date": "02/25/2021",
+                            "title": "Ad Council's $500 million campaign to push vaccine in partnership with CDC",
+                            "subTitle": [],
+                            "content": ["https://www.foxnews.com/health/its-up-to-you-500-million-ad-campaign-covid-19-vaccine"]
+                        },
+                        {
+                            "date": "04/02/2021",
+                            "title": "Yahoo Published an article on April 2nd \"5 Things Bill Gates wants you to know about COVID-19 Variants\" and April 28th, \"Joe Rogan, who's not a doctor, gives terrible vaccine advice\"",
+                            "subTitle": [
+                                "So Bill Gates, who's not a doctor, it's okay for him to give any kind of advice he wants about vaccines or global health, but Joe Rogan can't. Hmmm..."
+                            ],
+                            "content": [
+                                "https://au.finance.yahoo.com/news/bill-gates-covid19-variants-000450465.html",
+                                "https://ia803406.us.archive.org/21/items/FOXNEWSW_20210506_000000_Tucker_Carlson_Tonight/FOXNEWSW_20210506_000000_Tucker_Carlson_Tonight.thumbs/FOXNEWSW_20210506_000000_Tucker_Carlson_Tonight_000720.jpg"
+                            ]
+                        },
+                        {
+                            "date": "04/20/2021",
+                            "title": "Cleveland Clinic and Mayo Clinic and more than 50 other hospital systems launch campaign to push the vaccine",
+                            "subTitle": [],
+                            "content": ["https://www.wkyc.com/article/news/health/coronavirus/cleveland-clinic-covid-get-vaccine-to-save-lives-campaign-coronavirus/95-b3243265-dd11-40c1-bbf8-05e628a53110"]
+                        },
+                        {
+                            "date": "07/12/2021",
+                            "title": "New Ad Showing Woman Struggling to Breath to Hit the Air in Sydney",
+                            "subTitle": [],
+                            "content": ["https://www.dailymail.co.uk/news/article-9777141/Watch-distressing-new-coronavirus-ad-Australia-showing-young-woman-struggling-breathe.html"]
                         }
                     ]
                 },
@@ -1119,111 +2030,349 @@
                             "content": ["https://www.msn.com/en-us/news/us/california-doctor-removed-from-job-after-questioning-covid-lockdowns/ar-BB1c9k4p"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "04/29/2020",
+                            "title": "Doctors coming out and explaining that wearing a mask should not be recommended. (Video removed from YouTube)",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.nbcnews.com/tech/tech-news/youtube-facebook-split-removal-doctors-viral-coronavirus-videos-n1195276"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "05/16/2020",
+                            "title": "Epidemiologist Knut Wittowski said flu is likely being counted as COVID",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://nypost.com/2020/05/16/youtube-censors-epidemiologist-knut-wittkowski-for-opposing-lockdown/"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "12/09/2020",
+                            "title": "Oregon Doctor lost licensed for not following mask wearing and saying COVID is a common cold",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.msn.com/en-us/news/us/this-oregon-doctor-who-refused-to-wear-masks-and-called-covid-19-a-e2-80-98common-cold-e2-80-99-has-lost-his-license/ar-BB1bMf2Y"]
                         },
                         {
-                            "date": "",
-                            "title": "",
-                            "subTitle": [],
-                            "content": [""]
+                            "date": "12/15/2020",
+                            "title": "Yale Professor Says HCQ is effective in treating COVID. But Fauci and Gates don't support it and say only vaccine will get us back to normal",
+                            "subTitle": [
+                                "I can only assume it's because Fauci and Gates stand to make millions if not billions off of the \"vaccine\""
+                            ],
+                            "content": ["https://www.msn.com/en-xl/news/other/hydroxychloroquine-saga-yale-professor-harvey-risch-says-it-cures-covid-19/ar-BB17msZs"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "Current",
+                            "title": "YouTube's own policy (anything that contradicts local and/or WHO recommendations)",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://support.google.com/youtube/answer/9891785?hl=en"]
                         },
                         {
-                            "date": "",
-                            "title": "",
-                            "subTitle": [],
-                            "content": [""]
+                            "date": "12/03/2020",
+                            "title": "Facebook removing \"false\" claims about COVID",
+                            "subTitle": [
+                                "They're deemed false because they go against the CDC and WHO. Remember, if you can question it, it's Science, if you can't, it's propaganda"
+                            ],
+                            "content": ["https://www.theverge.com/2020/12/3/22150425/facebook-covid-19-vaccine-coronavirus-misinformation-ban"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "04/23/2021",
+                            "title": "Facebook removed 120,000 member group that discussed alleged adverse reactions from the vaccine",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://reclaimthenet.org/facebook-removes-covid-19-vaccine-victims-group/"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "05/24/2021",
+                            "title": "Facebook removed comment from Doctor talking about the low pediactric deaths of covid, citing actual CDC numbers",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.newswars.com/doctors-message-about-low-pediatric-deaths-from-covid-blocked-by-facebook/"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "04/08/2021",
+                            "title": "FactCheck.org (Facebook's \"independent\" fact checker), is funded by the Robert Wood Johnson Foundation. This foundation has a 2 million dollar investment in J&J. I wonder how reputable and honest the \"fact-checkers\" are at Facebook when it comes to the \"pandemic\" and \"vaccines\"...Hmmm",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.clearnewswire.com/513280.html"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "07/04/2021",
+                            "title": "Doctor Censored, Posts Deleted, and People Are Unable to Mention Him on Instagram Because He Spoke Against the Mainstream Narrative In Regards to COVID",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.instagram.com/p/CQ6vpgZg7-I/"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "08/02/2021",
+                            "title": "Apple Removed \"Tinder for Unvaxxed\" App from Apple App Store",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.zerohedge.com/political/apple-bans-tinder-anti-vaxxers-app-store"]
                         },
                         {
-                            "date": "",
-                            "title": "",
-                            "subTitle": [],
-                            "content": [""]
+                            "date": "08/11/2021",
+                            "title": "YouTube Censors Rand Paul (A Medical Doctor) Video and Suspends His Channel For Uploading Video That Was Labeled As Misinformation About COVID and Masks",
+                            "subTitle": [
+                                "At what point are we going to admit to ourselves we are living in Communist Russia/China?"
+                            ],
+                            "content": ["https://www.zerohedge.com/technology/youtubes-leftwing-cretins-censor-rand-paul-video-which-he-slammed-youtube-censorship"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "Current",
+                            "title": "Twitter removing \"false\" claims about COVID",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://help.twitter.com/en/rules-and-policies/medical-misinformation-policy"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "08/04/2021",
+                            "title": "Twitter Suspends Journalist Who Repeated CDC Fact On Vaccines",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.zerohedge.com/technology/twitter-suspends-journalist-who-repeated-cdc-fact-vaccines"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "08/08/2021",
+                            "title": "Doctor At Local Community School Meeting Explains The Overblown Nature of this \"Pandemic\"",
+                            "subTitle": [
+                                "Surely we won't hear about this on the evening news since it's not sanctioned by Dr. Gates"
+                            ],
+                            "content": ["https://twitter.com/SebGorka/status/1424603849952829442"]
+                        },
+                        {
+                            "date": "05/17/2021",
+                            "title": "Guy making Fauci impressions on Tik-Tok has his videos removed",
+                            "subTitle": [
+                                "To find out who rules you, look to who you can't criticze"
+                            ],
+                            "content": ["https://twitter.com/TyTheFisch/status/1394304301082759169?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1394304301082759169%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.newswars.com%2Ftiktok-censors-videos-that-made-fun-of-dr-fauci%2F"]
+                        },
+                        {
+                            "date": "04/20/2021",
+                            "title": "Ron Paul \"Violated\" YouTube Guidelines for a video talking about Bill Gates",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://twitter.com/RonPaul/status/1384550354507812866"]
+                        },
+                        {
+                            "date": "04/16/2021",
+                            "title": "Florida Gov. held a video panel of 4 professors (Havard, Oxford, and Stanford) to Discuss COVID. YouTube took the video down due to going against global bodies",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/youtube-censors-panel-medical-experts-over-covid-19-misinformation-other-absurdities"]
+                        },
+                        {
+                            "date": "12/10/2020",
+                            "title": "Roger Hodkinson, a top pathologist, said COVID is the \"greatest hoax ever perpetrated on an unsuspecting public\"",
+                            "subTitle": [],
+                            "content": ["https://www.lewrockwell.com/2020/12/joseph-mercola/the-greatest-hoax-ever-perpetuated-on-an-unsuspecting-public/"]
+                        },
+                        {
+                            "date": "02/12/2021",
+                            "title": "Dr. Sucharit Bhakdi, Retired Microbiologist, said these vaccines are \"downright dangerous\"",
+                            "subTitle": [
+                                "Looked to be pretty accurate given how all of the vaccinated people are now getting sick and dying"
+                            ],
+                            "content": ["https://dryburgh.com/sucharit-bhakdi-led-to-their-downfall-with-false-coronavirus-narrative/"]
+                        },
+                        {
+                            "date": "06/25/2021",
+                            "title": "Surgeon and Clinical Profressor Fired From University After Voicing Concerns Over Children Being Given the Injection",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/surgeon-fired-college-medicine-voicing-concerns-about-covid-shots-kids"]
+                        },
+                        {
+                            "date": "07/15/2021",
+                            "title": "Press Sec. Says, \"We're flagging problematic posts for Facebook that spread disinformation\"",
+                            "subTitle": [
+                                "Totally not authoritarian or 1984-like at all..."
+                            ],
+                            "content": ["https://twitter.com/DailyCaller/status/1415727354463281159"]
+                        },
+                        {
+                            "date": "07/16/2021",
+                            "title": "Press Sec. suggests that people spreading \"misinformation\" be banned from other/all platforms if they're banned from one",
+                            "subTitle": [
+                                "Again, you have to ask, what is considered misinformation? Well of course it's anything that go against the ruling class"
+                            ],
+                            "content": ["https://twitter.com/JordanUhl/status/1416101387881046020"]
+                        },
+                        {
+                            "date": "12/01/2020",
+                            "title": "Dr. Yeadon and Dr. Wodarg, from Germany, sent a letter to the European Medicines Agency to halt clinical trials of vaccine, due to potential possiblity of sterilization of women. The protein that the mRNA tells your cells to produce, is similar in make-up to the protein that is needed for placenta development and if you make antibodies against that protein, there's a chance you will be unable to become pregnant",
+                            "subTitle": [
+                                "They also bring up PEG (polyethelyne glycol) allergy. PEG has never been used in an approved vaccine, but people that have been exposed to PEG from plastics, processed  food, etc may have a severe allergic reaction to the vaccine"
+                            ],
+                            "content": ["https://2020news.de/wp-content/uploads/2020/12/Wodarg_Yeadon_EMA_Petition_Pfizer_Trial_FINAL_01DEC2020_EN_unsigned_with_Exhibits.pdf"]
+                        },
+                        {
+                            "date": "06/27/2021",
+                            "title": "Robert Malone, inventor of the mRNA vaccine technology, memory-holed from history because he is skeptical about the roll-out of this injection",
+                            "subTitle": [],
+                            "content": ["https://odysee.com/@whatsherface:2/robert-malone:5"]
+                        },
+                        {
+                            "date": "07/18/2021",
+                            "title": "Robert Malone tweeted, \"...Last Night an experienced journalist told me I need to get security because I was at risk of being assasinated...\" for speaking out",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/RWMaloneMD/status/1416723981864947712"]
+                        },
+                        {
+                            "date": "05/27/2021",
+                            "title": "John Hopkins School of Medicine Professor says We Have Reached Herd Immunity and ignoring this from the medical leadership is the biggest failure and Said We have to start respecting people who don't want the vaccine and to ignore the CDC",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/johns-hopkins-prof-half-americans-have-natural-immunity-dismissing-it-biggest-failure"]
+                        },
+                        {
+                            "date": "07/12/2021",
+                            "title": "Democrats Work With Cell-Phone Networks to \"Fact Check\" SMS Private Text Messages",
+                            "subTitle": [],
+                            "content": ["https://summit.news/2021/07/12/democrat-groups-plan-to-fact-check-private-sms-messages/"]
+                        },
+                        {
+                            "date": "07/15/2021",
+                            "title": "Surgeon General Demands Social Media Companies Crack Down On COVID \"Mis-information\"",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/surgeon-general-demands-social-networks-crack-down-covid-misinformation"]
                         }
                     ]
                 },
                 {
                     "id": 3,
-                    "type": "Programming & Manipulation",
+                    "type": "Psychological Manipulation",
                     "articles": [
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "05/13/2021",
+                            "title": "Meriam-Webster Update The Definition of \"Anti-vaxxer\" to include \"people who oppose forced inoculation mandates\"",
                             "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/ministry-truth-merriam-webster-edits-definition-anti-vaxxer-include-opponents-mandatory"]
+                        },
+                        {
+                            "date": "05/13/2021",
+                            "title": "Washington Post Put Out 2 Articles: The first one towards the beginning of all of this saying, \"Everyone wore masks during the 1918 Pandemic. They were useless.\" and then more recently put out this Opinion piece, \"Abandoning Masks now is a terrible idea. The 1918 pandemic shows why\"",
+                            "subTitle": [],
+                            "content": ["https://www.facebook.com/petalopubblica/photos/a.258024234677933/1156260181520996/?type=3&is_lookaside=1"]
+                        },
+                        {
+                            "date": "06/16/2021",
+                            "title": "Yahoo News Contradicting Itself When It's Politically Appropriate",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Lukewearechange/status/1405167537420046338"]
+                        },
+                        {
+                            "date": "05/25/2021",
+                            "title": "VOX Website silently edits article it made from March 2020 \"debunking\" the wuhan lab claims, to now saying it's a possibility",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/vox-stealth-edits-march-2020-article-debunking-lab-origin-covid"]
+                        },
+                        {
+                            "date": "07/08/2020",
+                            "title": "Yale University put together a study to determine the best ways to convince the public to take the vaccine. Here are their options:",
+                            "subTitle": [
+                                "Other: Control message",
+                                "Other: Baseline message",
+                                "Other: Personal freedom message - \"Get the shot, so we can get back to \"normal\" and you can leave your house and travel!\"",
+                                "Other: Economic freedom message - \"Get the shot and we can get back to our jobs!\"",
+                                "Other: Self-interest message",
+                                "Other: Community interest message - Gov. Cuomo Coming Out With a Video Saying it's a \"Community Obligation\"",
+                                "Other: Community interest message - Columbia University Puts Out Ad With Run DMC (old school rapper) About Convincing People to Take Vaccine for the Community",
+                                "Other: Economic benefit message - Maryland Gov. Announcing $100 incentive to get the injection",
+                                "Other: Economic benefit message - Some companies paying employees to get the injection",
+                                "Other: Economic benefit message - Ohio Offers Weekly Million Dollar Lottery Prize For Vaccinated People",
+                                "Other: Economic benefit message - West Virginia Offering Young Adults $100 Savings Bond to Get the Injection",
+                                "Other: Economic benefit message - NY Offering Lottery Scratchers for the Injection",
+                                "Other: Economic benefit message - NY Now Offering $100 If You Get The Injection",
+                                "Other: Economic benefit message - Now Biden Is Pressuring All States To Bribe People With $100 To Get The Totally Safe and Effective Injection",
+                                "Other: Economic benefit message - Oregon Offering Lottery Prizes from $10,000 to 1 Million Dollars if you get the injection",
+                                "Other: Economic benefit message - California Offering 116 Million Dollar Giveaway for Slaves Wanting to be Injected",
+                                "Other: Economic benefit message - Washington Offering Weed For Jab",
+                                "Other: Economic benefit message - Vanguard Offers $1,000 To Vaccine Holdouts to Get Jabbed",
+                                "Other: Guilt message - Pretty soon, you're going to be pressured and put on guilt-trips from friends, family, and the general public if you don't get it. And you'll be made to feel guilty because perhaps you won't be able to go on that big trip this year or can't go to a sporting event or concert. This next part of this will test everyone that is currently refusing the injection",
+                                "Other: Guilt message - What do you know, we have it from CNN. \"It's time to shun friends and family who aren't vaccinated\"",
+                                "Other: Embarrassment message - Biden Says It's Under Consideration To Have All Federal Employees Mandated to Get the Injection. \"...but if you're not vaccinated you're not nearly as smart as I thought you were.\"",
+                                "Other: Anger message",
+                                "Other: Trust in science message - This has been so widely stated, I could fill this section up with dozens of articles...",
+                                "Other: Not bravery message - Banner Health: \"Mask Up Like a Hero\"",
+                                "Other: Not bravery message - Ad Council: Photoshopping Masks on All Your Favorite Celebs"
+
+                            ],
+                            "content": [
+                                "https://clinicaltrials.gov/ct2/show/NCT04460703?term=Vaccine&cond=Covid19&cntry=US&draw=2",
+                                "https://www.youtube.com/watch?v=nuybW7RZTco",
+                                "https://www.youtube.com/watch?v=wB9RSffVys4",
+                                "https://twitter.com/GovLarryHogan/status/1389275291894251523",
+                                "https://www.cnn.com/2021/03/24/business/covid-vaccine-incentives-companies/index.html",
+                                "https://www.zerohedge.com/covid-19/ohio-offers-weekly-million-dollar-lottery-prize-vaccinated-people",
+                                "https://www.nbcnews.com/news/us-news/west-virginia-offers-100-savings-bonds-people-16-35-who-n1265500",
+                                "https://abc7ny.com/vaccine-incentive-lottery-ticket-andrew-cuomo-ny-covid/10667715/",
+                                "https://www.zerohedge.com/covid-19/im-waiting-1000-minimum-de-blasio-offers-100-everyone-who-gets-vaccinated-nyc-lags-target",
+                                "https://www.zerohedge.com/covid-19/rewarding-hesitant-biden-calls-states-bribe-vaccine-holdouts-100-incentive",
+                                "https://www.zerohedge.com/markets/oregon-bribing-its-residents-getting-vaccinated-1-million-lottery",
+                                "https://www.thegatewaypundit.com/2021/05/vax-win-governor-newsom-offers-116-5-million-giveaway-vaccinated-californians/",
+                                "https://www.zerohedge.com/markets/joints-jabs-washington-state-bribes-residents-get-covid-vaccine-marijuana",
+                                "https://www.zerohedge.com/medical/vanguard-offers-1000-vaccine-holdouts-get-jabbed",
+                                "https://twitter.com/JackPosobiec/status/1389987063437709315",
+                                "https://twitter.com/townhallcom/status/1420109512678199303",
+                                "https://www.youtube.com/watch?v=fdXZN5jSqNE",
+                                "https://www.youtube.com/watch?v=RD7e8mJJv6o"
+                            ]
+                        },
+                        {
+                            "date": "1930's",
+                            "title": "Tell A Big Lie and Keep Repeating It",
+                            "subTitle": [
+                                "Hitler was a master manipulator and understood to take over a population through psychological tactics. He wrote the following of the Jews:",
+                                "\"unqualified capacity for falsehood” and “that in the big lie there is always a certain force of credibility; because the broad masses of a nation are always more easily corrupted in the deeper strata of their emotional nature than consciously or voluntarily; and thus in the primitive simplicity of their minds they more readily fall victims to the big lie than the small lie, since they themselves often tell small lies in little matters but would be ashamed to resort to large-scale falsehoods. It would never come into their heads to fabricate colossal untruths, and they would not believe that others could have the impudence to distort the truth so infamously. Even though the facts which prove this to be so may be brought clearly to their minds, they will still doubt and waver and will continue to think that there may be some other explanation…. From time immemorial, however, the Jews have known better than any others how falsehood and calumny can be exploited.\""
+                            ],
+                            "content": []
+                        },
+                        {
+                            "date": "03/12/2020",
+                            "title": "Psychosomatic Manfiestations from COVID Hysteria: Important Point From The Article:",
+                            "subTitle": [
+                                "Although psychosomatic illness is not physically contagious, it is emotionally infectious both personally and vicariously when shared with loved ones or through social media.",
+                                "This is exactly what's going on with COVID. People are effectively making themselves sick by thinking it and causing mass paranoia"
+                            ],
+                            "content": ["https://www.psychologytoday.com/us/blog/why-bad-looks-good/202003/how-coronavirus-anxiety-can-make-you-feel-sick"]
+                        },
+                        {
+                            "date": "08/12/2021",
+                            "title": "Great Article Explaining Why Some People Support Tyranny and Others Reject It",
+                            "subTitle": ["\"The obedient always think of themselves as virtuous rather than cowardly.\""],
+                            "content": ["https://alt-market.us/why-do-some-people-support-tyranny-while-others-defy-it/"]
+                        },
+                        {
+                            "date": "04/14/2021",
+                            "title": "CNN Technical Director caught on tape",
+                            "subTitle": [
+                                "\"COVID? Gangbusters with ratings right? Which is why we constantly have the death toll on the side…let’s make it higher\" \"No such thing as unbiased news.\"",
+                                "The CNN employee also revealed that he had mixed feelings about the death tracker. \"I’ve even looked at it and been like… let’s make it higher,” he said. \"Like, why isn’t it high enough, you know, today? Like, it would make our point better if it was higher. And I’m like, what am I f**king rallying for?\"",
+                                "\"Every so often they put it on speaker, and it’s like the head of network being like, \"There’s nothing that you’re doing right now that makes me want to stick. Put the numbers back up because that’s the most enticing thing that we had. So put it back up.\"",
+                                "'Look what we did, we  got Trump out. I am 100 percent going to say it, and I 100 percent believe that if it wasn't for CNN, I don't know that Trump would have got voted out,' Chester said in the video. 'I came to CNN because I wanted to be a part of that.'",
+                                "'Like our focus was to get Trump out of office, right? Without saying it, that's what it was, right? So, our next thing is going to be climate change awareness,' Chester said in another clip.",
+                                "“I think there’s a COVID fatigue,” said Chester. Referring to CNN, he said that “So, like whenever a new story comes up, they’re going to latch onto it. They’ve already announced in our office that once the public is — will be open to it — we’re going to start focusing mainly on climate…. Climate change can take years, so they’ll probably be able to milk that quite a bit.”",
+                                "'Be prepared, it's coming. Climate change is going to be the next COVID thing for CNN,' said Chester."
+                            ],
+                            "content": ["https://www.rt.com/usa/521055-cnn-covid-fearmongering-veritas/"]
+                        },
+                        {
+                            "date": "N/A",
+                            "title": "Gas-Lighting",
+                            "subTitle": ["Gaslighting is an insidious form of manipulation and psychological control. Victims of gaslighting are deliberately and systematically fed false information that leads them to question what they know to be true, often about themselves. They may end up doubting their memory, their perception, and even their sanity. Over time, a gaslighter’s manipulations can grow more complex and potent, making it increasingly difficult for the victim to see the truth."],
                             "content": [""]
                         },
                         {
-                            "date": "",
-                            "title": "",
-                            "subTitle": [],
+                            "date": "N/A",
+                            "title": "Trust The Science Right? That's What These People Continually Say. Except Science Is Not To Be Trusted, It Is Supposed To Be Proven. They Also Mention That The Science Is Settled. Science Is Never Settled. We Always Know More Than What We Used To And Continually Invalidating Old Common Knowledge That We Swore Was Correct. If Science Was Settled and It Was Something We Could Trust/Believe In, It's a Religion. Not A Science",
+                            "subTitle": [
+                                "There was a time when the modern world was ruled by theocracy and told everyone that the sun revolved around the earth. This obviously turned out to be a lie, becacuse of Copernicus's work. It was thought he delayed his research on it because of possible religous persecution.",
+                                "About a 100 years later, Galileo went against the church saying that the sun was the center of the universe, not the earth. That was deemed heresy and punishable by law. He was imprisoned and then put under house arrest for the rest of his life. This was his penalty: \"We order that by a public edict the book of Dialogues of Galileo Galilei be prohibited, and We condemn thee to the prison of this Holy Office during Our will and pleasure; and as a salutary penance We enjoin on thee that for the space of three years thou shalt recite once a week the Seven Penitential Psalms.\" Galileo agreed not to teach the heresy anymore and spent the rest of his life under house arrest. It took more than 300 years for the Church to admit that Galileo was right and to clear his name of heresy.",
+                                "People are acting as if science is dogma and whatever comes out of an authority's mouth when it comes to science, should be trusted without question. People use the phrase, \"Trust the Science\". But science is rooted not in trust, but in proofs. You also hear people say, \"the science is settled\". Science is never settled. If science is settled, we'd still be thinking we were the center of the universe.",
+                                "Doctors Recommending Cigarettes in the 30's and 40's",
+                                "Sugar Industry Quietly Paid Scientists to Blame Fat For Health Crisis",
+                                "Climate-Gate: Released emails from among scientists that did research on the climate change and it was indicated that it was politically motivated, parts of the science  were swept under the rug, and the science was weak in proving humans cause climate change"
+
+                            ],
+                            "content": [
+                                "https://www.history.com/news/cigarette-ads-doctors-smoking-endorsement",
+                                "https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat",
+                                "https://www.nytimes.com/2016/09/13/well/eat/how-the-sugar-industry-shifted-blame-to-fat.html",
+                                "https://www.forbes.com/sites/jamestaylor/2011/11/23/climategate-2-0-new-e-mails-rock-the-global-warming-debate/?sh=7bca6cc527ba",
+                                "https://wearechange.org/whistleblower-reveals-noaas-long-history-manipulating-temperature-data/"
+                            ]
+                        },
+                        {
+                            "date": "N/A",
+                            "title": "I've Heard People Say, \"I Just Want To Be A Good Citizen\". Unfortunately, You're Not Being A Good Citizen By Obeying. You're Being Sheep To The Slaughter",
+                            "subTitle": [
+                                "This assumes that the actions you are doing, the actions that are imposed on businesses, and the lockdowns are all justified and there is no malintent. A lot of people were good citizens in Nazi Germany, Stalin's Russia, Mao's China because the governments sold fear to the public and told them to do certain things, so we can have a great future. There's a famous photo of a bunch of people doing the heil hitler and one person not raising his hand. The few people are ridiculed, screamed at, and made to feel alone. Listening to known liars and known criminals doesn't make you a good citizen, it makes you a dangerous one that simply follows orders and allows evil to prevail. I'm sure people that gave up the jews in germany to the government were thinking that they were being a good citizen, doing what's right for this country because the Nazi's said it was the Jews that caused the economic nightmare that plauged Germany."
+                            ],
                             "content": [""]
                         }
                     ]
@@ -1239,16 +2388,10 @@
                     "type": "Event 201",
                     "articles": [
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "10/01/2019",
+                            "title": "Full Playlist of the Event",
                             "subTitle": [],
-                            "content": [""]
-                        },
-                        {
-                            "date": "",
-                            "title": "",
-                            "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.youtube.com/playlist?list=PL5vtMLUWgYegt3Tbz1qvmGtUBlrfaqtU4"]
                         }
                     ]
                 },
@@ -1258,15 +2401,72 @@
                     "articles": [
                         {
                             "date": "",
-                            "title": "",
+                            "title": "Details Of The Event",
+                            "subTitle": [
+                                "Featured global leaders and experts, including Mikhail Mishustin, Prime Minister of the Russian Federation, and Klaus Schwab, Founder and Executive Chairman, World Economic Forum, as well as top officials from INTERPOL, ICANN, Visa, IBM, Sberbank, MTS and other organizations.",
+                                "The experts addressed the latest trends and technological threats, shared their experience in creating cybersecurity ecosystems, talked about the transforming threat landscape, and discussed the problem of fake news and how to discern misinformation on the Web"
+                            ],
+                            "content": ["https://www.zerohedge.com/geopolitical/heres-what-happened-cyber-polygon-and-youre-not-going-it"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "People Fighting Back",
+            "types": [
+                {
+                    "id": 1,
+                    "type": "Protests",
+                    "articles": [
+                        {
+                            "date": "07/24/2021",
+                            "title": "After Dictator Macron Declared Vaccine Mandates, French People Take To The Streets and Protest It",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.cbsnews.com/news/france-protest-covid-virus-pass-vaccine/"]
                         },
                         {
-                            "date": "",
-                            "title": "",
+                            "date": "07/30/2021",
+                            "title": "Italian Lawmakers Push Back Against \"Green Pass\"",
                             "subTitle": [],
-                            "content": [""]
+                            "content": ["https://www.newswars.com/chaos-erupts-in-italian-parliament-over-vaccine-passport-plans/"]
+                        },
+                        {
+                            "date": "08/18/2021",
+                            "title": "California Residents Speaking Out Against Tyrannical Mask Mandates",
+                            "subTitle": [],
+                            "content": ["https://www.newswars.com/california-resists-covid-madness-watch-fired-up-citizens-stand-up-to-mask-mandates/"]
+                        },
+                        {
+                            "date": "08/21/2021",
+                            "title": "Melbourne Protests",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Lukewearechange/status/1429086362708414464"]
+                        },
+                        {
+                            "date": "08/21/2021",
+                            "title": "Protests Continue for 6th Consecutive Weekend In France",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/TheMarieOakes/status/1429053272372006918"]
+                        },
+                        {
+                            "date": "08/21/2021",
+                            "title": "Huge Amsterdam Protests",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Demo2020cracy/status/1429224073108787205"]
+                        },
+                        {
+                            "date": "08/22/2021",
+                            "title": "Modern Day Paul Revere in Australia",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Lukewearechange/status/1429463849820999691"]
+                        },
+                        {
+                            "date": "08/30/2021",
+                            "title": "Italy Protest",
+                            "subTitle": [],
+                            "content": ["https://odysee.com/@WAM:0/exclusivemassiveprotestsinitalywam:7"]
                         }
                     ]
                 }
@@ -1281,16 +2481,314 @@
                     "type": "List of Experiments",
                     "articles": [
                         {
-                            "date": "",
-                            "title": "",
-                            "subTitle": [],
+                            "date": "1932-1972",
+                            "title": "Tuskegee Experiment",
+                            "subTitle": [
+                                "US Public Health Service took 600 black men with 399 with syphilis and 201 without. Those with syphilis were denied treatment for the disease. The government wanted to track the progression without interruption from the medication. The men were never given the opportunity to participate in the study because they were never told it was an experiment. Lasted 40 years and when penicillin became the treatment for syphilis, the patients were denied access and weren't given the option to opt out of the study."
+                            ],
+                            "content": [""]
+                        },
+                        {
+                            "date": "1940's",
+                            "title": "Stateville Penitentiary Malaria Study",
+                            "subTitle": [
+                                "Conducted by the US government, involved over 400 prisoners who were illegally infected with malaria and subjected to studies"
+                            ],
+                            "content": [""]
+                        },
+                        {
+                            "date": "1940's",
+                            "title": "Plutonium Testing",
+                            "subTitle": [
+                                "US government injected plutonium into people. Patients weren't aware of what plutonium was since it was largely a secret until after WWII"
+                            ],
+                            "content": [""]
+                        },
+                        {
+                            "date": "1950's",
+                            "title": "Operation Sea-Spray",
+                            "subTitle": [
+                                "US Army wanted to test the effect of a biological attack on a coastal city, so they released biological weapons into the streets of San Francisco to test their effects. This was done without the citizen's consent. 6 different tests were done and killed many people and hurt several more."
+                            ],
+                            "content": [""]
+                        },
+                        {
+                            "date": "1955",
+                            "title": "Operation Big Buzz",
+                            "subTitle": [
+                                "The government released millions of mosquitos into Georgia parks that were known to carry Yellow Fever. They wanted to test the effectiveness of using insects in  biological warfare by tracking the number of bites people reported",
+                                "In today's news: Bill Gates Funds project, through the company Oxitec, to release GMO misquitos into the Florida Keys with him saying to reduce the cases of malaria. I'm  sure there's nothing nefarious going on though, or else they would tell us up-front about it right?? And obviously no way residents can simply opt-out of this experiment"
+                            ],
+                            "content": ["https://www.foxnews.com/science/bill-gates-donates-4m-to-create-mosquitoes-that-kill-each-other-using-sex"]
+                        },
+                        {
+                            "date": "1956",
+                            "title": "Willowbrook Experiments",
+                            "subTitle": [
+                                "Subjects were taken from Willowbrook State School for mentally handicapped children. The tests done involved injecting the children with experimental drugs that were meant to cure hepatitis. Children were not given consent and often died from the treatments. Officials justified it by saying hepatitis was prevalent and nearly all patients would become infected anyway. The children who didn't contract the disease naturally, were infected by the administrators to carry on the experiment."
+                            ],
+                            "content": [""]
+                        },
+                        {
+                            "date": "1960's",
+                            "title": "British Government Experimenting on Citizens",
+                            "subTitle": [
+                                "British Military during Cold War, dropped thousands of kilos of a chemical of \"largely unknown toxic potential\" on British civilian populatins in and around Salisbury in Wiltshire, Cardington in Bedfordshire, and Norwich in Norfolk. It was discovered that the chemical was, Zinc Cadmium Sulphide. Potentially carcinogenic due to it's cadmium content",
+                                "Also, commuters in the London underground tube system were also guinnea pigs in 1964. Carried out by the governments Chemical and Biological Warfare Research Center, involved the release of large quantities of bacteria called Bacillus Globigii. They wanted to know if long distance travel of aerosols was due to transportation within the train or air ventilation system. At the time, the government thought that bacteria was relatively harmless, but today it is regarded as a cause of food poisoning, eye infections, and even sepsis."
+                            ],
+                            "content": [""]
+                        },
+                        {
+                            "date": "1989",
+                            "title": "Measles Vaccine Experiment",
+                            "subTitle": [
+                                "Conducted by the CDC, doctors injected thousands of babies in third world countries. The vaccine led to several immune problems and caused many deaths. The US government still decided to test it on black and hispanic babies in Los Angeles. They injected more than 1500 babies. The study stopped when it was discovered black babies were dying at an alarming rate up to 3 years after receiving vaccine. The CDC admitted later the parents were unaware that their children were being injected with an experimental drug that had not been verified by the FDA.",
+                                "The CDC sanctioned this...but yeah, let's trust them because they care about our health"
+                            ],
                             "content": [""]
                         },
                         {
                             "date": "",
-                            "title": "",
-                            "subTitle": [],
+                            "title": "MK Ultra",
+                            "subTitle": [
+                                "Secret CIA program to study mass-mind control",
+                                "exposed in the 1970's",
+                                "studies done on volunteers, inmates, and unsuspecting individuals"
+                            ],
                             "content": [""]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Lunacy",
+            "types": [
+                {
+                    "id": 1,
+                    "type": "List Of Covidiots",
+                    "articles": [
+                        {
+                            "date": "07/18/2021",
+                            "title": "They Want You Permanently Sick So You Stay In Their System and Are Dependent Upon Them For Your Whole Life",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Lukewearechange/status/1416798724420997123/photo/1"]
+                        },
+                        {
+                            "date": "07/15/2021",
+                            "title": "McDonalds Has Sign Saying Free Vaccine Here lol",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/YALiberty/status/1415740447314497539/photo/1"]
+                        },
+                        {
+                            "date": "06/05/2021",
+                            "title": "Golfer Leading the PGA Championship Was Told Mid-Play That He Tested Positive For \"COVID\" And Was Told To Leave. (HAHA COVID is so dangerous!)",
+                            "subTitle": [],
+                            "content": ["https://www.yahoo.com/entertainment/golfer-jon-rahm-learns-pga-062719054.html"]
+                        },
+                        {
+                            "date": "07/20/2021",
+                            "title": "Chief Health Officer of NSW Australia Tells Australians They Souldn't Engage in Conversation With Each Other, Even If They're Wearing Masks",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/top-health-officer-orders-australians-dont-have-conversation-each-other"]
+                        },
+                        {
+                            "date": "07/26/2021",
+                            "title": "UK Labour Councillor Ridiculed For Bragging About Wearing A Mask On An Empty Train",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/political/uk-labour-councillor-ridiculed-bragging-about-wearing-mask-empty-train"]
+                        },
+                        {
+                            "date": "05/21/2021",
+                            "title": "It's a Cult",
+                            "subTitle": [],
+                            "content": ["https://www.youtube.com/watch?v=U77MA42hrHA"]
+                        },
+                        {
+                            "date": "07/06/2021",
+                            "title": "This is all definitely NOT Propaganda at all...",
+                            "subTitle": [],
+                            "content": ["https://www.youtube.com/watch?v=pa_gk3X5UEE"]
+                        },
+                        {
+                            "date": "05/28/2021",
+                            "title": "Woman complained to Slate.com that her husband wears a mask all the time and even in the bedroom while having sex",
+                            "subTitle": [
+                                "The government and media have created zombies and mental patients who seriously cannot think for themselves and actually love being told what to do because they're so pathetic and weak"
+                            ],
+                            "content": ["https://twitter.com/PrisonPlanet/status/1398338013692841995"]
+                        },
+                        {
+                            "date": "05/14/2021",
+                            "title": "These Are The Health Experts We're Supposed to Listen To:",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/ToneVays/status/1393282764733132802/photo/1"]
+                        },
+                        {
+                            "date": "05/08/2021",
+                            "title": "Polish pastor who told the canadian police to get out of the church on Easter Sunday was arrested by multiple police and pulled over on a freeway coming home from church",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/ezralevant/status/1391171521692028929"]
+                        },
+                        {
+                            "date": "01/10/2021",
+                            "title": "BBC said to wear facemasks while having sex",
+                            "subTitle": [],
+                            "content": ["https://www.breitbart.com/europe/2021/01/10/bbc-report-on-lockdown-sex-your-best-sexual-partner-is-yourself/"]
+                        },
+                        {
+                            "date": "01/25/2021",
+                            "title": "Fauci said wearing 2 masks is even better",
+                            "subTitle": [],
+                            "content": ["https://nypost.com/2021/01/25/fauci-wearing-two-masks-is-better-than-one/"]
+                        },
+                        {
+                            "date": "05/11/2021",
+                            "title": "Bette Midler Jokes About Killing Unvaccinated Children. \"If my kid can't bring peanut butter to school, then yours can't bring the deathly plague. Vaccinate or I'm bringing the jiffy\"",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/unhinged-leftist-bette-middler-threatens-kill-unvaccinated-kids"]
+                        },
+                        {
+                            "date": "01/29/2021",
+                            "title": "Medical expert on NBC recommended wearing 4 masks",
+                            "subTitle": [],
+                            "content": ["https://newspunch.com/woke-doctor-tells-nbc-americans-should-wear-four-face-masks/"]
+                        },
+                        {
+                            "date": "01/12/2021",
+                            "title": "L.A. county said to wear face masks inside home",
+                            "subTitle": [],
+                            "content": ["https://www.latimes.com/california/story/2021-01-12/wear-covid-masks-at-home-los-angeles-county-officials-say"]
+                        },
+                        {
+                            "date": "05/07/2021",
+                            "title": "Amherst College Suspended 3 Students for Not Wearing Mask at a Party that was...OFF-CAMPUS",
+                            "subTitle": [],
+                            "content": ["https://boston.cbslocal.com/2021/05/07/umass-amherst-students-suspended-masks-outside-off-campus/"]
+                        },
+                        {
+                            "date": "04/05/2021",
+                            "title": "Family gets kicked off plane due to 2 year old not wearing mask",
+                            "subTitle": [],
+                            "content": ["https://nypost.com/2021/04/05/video-shows-family-kicked-off-spirit-flight-over-mask-spat/"]
+                        },
+                        {
+                            "date": "12/13/2020",
+                            "title": "Family kicked off plane due to toddler not wearing mask",
+                            "subTitle": [],
+                            "content": ["https://kdvr.com/video/family-kicked-off-united-flight-after-toddler-won%e2%80%99t-wear-mask/6113373/"]
+                        },
+                        {
+                            "date": "09/08/2020",
+                            "title": "Family kicked off place due to 19 month old not wearing mask",
+                            "subTitle": [],
+                            "content": ["https://calgaryherald.com/news/local-news/abuse-harassment-and-outright-disrespect-family-forced-off-westjet-flight-for-not-masking-their-19-month-old"]
+                        },
+                        {
+                            "date": "04/30/2021",
+                            "title": "Man kicked off flight for not wearing mask in-between bites of food",
+                            "subTitle": [],
+                            "content": ["https://www.zerohedge.com/covid-19/man-kicked-plane-not-wearing-mask-between-bites-food"]
+                        },
+                        {
+                            "date": "01/29/2021",
+                            "title": "Air Passengers Traveling To Canada Have To Pay $2,000 CAD For Hotel To Quarantine",
+                            "subTitle": [],
+                            "content": ["https://www.theguardian.com/world/2021/jan/29/canada-air-passengers-quarantine-hotel-coronavirus"]
+                        },
+                        {
+                            "date": "12/10/2020",
+                            "title": "China Flight Attendants Advised to Wear Diapers for COVID Protection",
+                            "subTitle": [],
+                            "content": ["https://www.cnn.com/travel/article/china-civil-aviation-administration-coronavirus-guidance-intl-hnk/index.html"]
+                        },
+                        {
+                            "date": "03/03/2021",
+                            "title": "China Makes Anal Swabs Mandatory For Foreginers",
+                            "subTitle": [],
+                            "content": ["https://nypost.com/2021/03/03/china-makes-covid-19-anal-swabs-mandatory-for-foreigners/"]
+                        },
+                        {
+                            "date": "05/10/2021",
+                            "title": "UK Prime Minister, Boris Johnson, OK's hugs between househoulds starting May 17th. HAHAHAHAH WTF. Orwell is Turning in His Grave.",
+                            "subTitle": [],
+                            "content": ["https://www.foxnews.com/world/cautious-cuddling-england-hugs-lockdown-eases"]
+                        },
+                        {
+                            "date": "04/22/2021",
+                            "title": "Kid skateboarding in park \"roughed-up\" by police for not wearing mask",
+                            "subTitle": [],
+                            "content": ["https://www.lifesitenews.com/news/ontario-police-rough-up-12-year-old-who-was-not-wearing-a-mask-in-skate-park-incident-under-investigation"]
+                        },
+                        {
+                            "date": "04/02/2021",
+                            "title": "Recommending and pushing kids to get the injection, even though the chances of kids suffering at all from this is next to nothing",
+                            "subTitle": [],
+                            "content": [
+                                "https://www.latimes.com/world-nation/story/2021-04-02/children-vaccination-campaign-against-coronavirus",
+                                "https://www.kgw.com/article/news/health/coronavirus/vaccine/pfizer-doctors-push-for-children-to-get-covid-shot/283-efd5e33c-dd13-4b17-aaa0-2c51bdbc26ee"
+                            ]
+                        },
+                        {
+                            "date": "05/21/2021",
+                            "title": "Canada Has Pop-Up Vaccination Stands Offering Free Ice-Cream to Lure In Children to get the injection",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/drandrewb/status/1395792163259260933?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1395792163259260933%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fhumansarefree.com%2F2021%2F05%2Fcanadian-government-lures-children-with-ice-cream-to-take-covid-vaccine-without-parental-consent.html"]
+                        },
+                        {
+                            "date": "05/23/2021",
+                            "title": "Canadian police giving out tickets and fines for people shaking hands and not keeping a distance of 2 meters",
+                            "subTitle": [],
+                            "content": ["https://michaelsavage.com/watch-this-is-not-a-drill-canada-is-now-giving-tickets-for-shaking-hands/"]
+                        },
+                        {
+                            "date": "04/27/2021",
+                            "title": "Biden wearing a mask on a zoom call, only country leader to do this on a call with several other leaders",
+                            "subTitle": [],
+                            "content": ["https://babylonbee.com/news/biden-wears-mask-on-zoom-call-in-case-covid-has-become-a-computer-virus/"]
+                        },
+                        {
+                            "date": "10/01/2020",
+                            "title": "Chicago Mayor: Rona Destroyer!",
+                            "subTitle": [],
+                            "content": ["https://odysee.com/@LOCKSMITH-ILLUMINATI-VAULT:9/chicago-mayor-lori-lightfoot-is-the-rona:c"]
+                        },
+                        {
+                            "date": "05/05/2021",
+                            "title": "Old Lady Pool Tube Floaties Create a 6 Foot Barrier Around Her",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/PrisonPlanet/status/1390042950827188233?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1390042950827188233%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.zerohedge.com%2Fcovid-19%2Fcnn-host-says-people-who-dont-take-vaccine-should-be-socially-ostracized-friends-family"]
+                        },
+                        {
+                            "date": "04/28/2021",
+                            "title": "This is what mind control and brainwashing looks like lol",
+                            "subTitle": [],
+                            "content": ["https://www.youtube.com/watch?v=dP061-NXfz8"]
+                        },
+                        {
+                            "date": "04/26/2021",
+                            "title": "Compilation of Mask Nazis",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Lukewearechange/status/1386785862990671878"]
+                        },
+                        {
+                            "date": "05/18/2021",
+                            "title": "Absolute Gold: NYC Mayor Bill DeBlasio Creepy Video Offering Shake Shack Burger and Fries If You Get The Injection",
+                            "subTitle": [],
+                            "content": ["https://www.youtube.com/watch?v=I76QCGNa90Y"]
+                        },
+                        {
+                            "date": "05/18/2021",
+                            "title": "PBS \"Journalist\" Implies Ending Mask Mandate is Racist HAHAHA WTF?",
+                            "subTitle": [],
+                            "content": ["https://summit.news/2021/05/18/pbs-journalist-implies-that-ending-mask-mandates-is-racist/"]
+                        },
+                        {
+                            "date": "08/24/2021",
+                            "title": "HAHAHAHA The Aliens Are Here",
+                            "subTitle": [],
+                            "content": ["https://twitter.com/Lukewearechange/status/1430198971507613697"]
                         }
                     ]
                 }
