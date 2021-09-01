@@ -57,16 +57,8 @@ function App() {
       { isHome ?
         <div>
           <div className={styles.intro}>
-          Dear Mom, Dad, and Kelly,
-          <br/>
-          <br/>
-          {HomeIntro()}
-          <br/>
-          <br/>
-          Love,
-          <br/>
-          Brian
-        </div>
+            {HomeIntro()}
+          </div>
         <hr></hr>
         <div className={styles.links}>
           {
