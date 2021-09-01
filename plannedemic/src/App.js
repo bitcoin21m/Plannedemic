@@ -10,31 +10,50 @@ function App() {
   const [type, setType] = useState();
   const [db, setDb] = useState()
   const [isHome, setIsHome] = useState(true)
+  const [headerFixed, setHeaderFixed] = useState(false)
 
   const typeHandler = (param) => {
     setSection(() => param.target.parentElement.previousSibling.innerText)
     setType(() => param.target.innerText)
-    console.log("setting type: ", param.target.innerText)
     setIsHome(() => false)
   }
 
   useEffect(() => {
     setDb(() => data)
-
-    return (
-      console.log(db)
-    )
+    setHeaderFixed(() => window.pageYOffset > 10)
   },[])
+
+  useEffect(() => {
+    window.scrollTo(0,0)
+  }, [isHome])
 
   const goHome = () => {
     setIsHome(() => true)
   }
 
+  const scrollUp = () => window.scrollTo(0,0)
+
+  document.addEventListener("scroll", (event) => setHeaderFixed(() => window.pageYOffset > 10))
+
   return (
     <div className={styles.App}>
-      <div className={styles.header}>
-        <h4>Plannedemic</h4>
-      </div>
+      {
+        headerFixed 
+        ? (
+            <div className={styles.header, styles['fixed-header']}>
+              <h4 onClick={isHome ? scrollUp : goHome} className={styles['fixed-header-content']}>Plannedemic</h4>
+              { !isHome && <button onClick={goHome} className={`btn btn-sm btn-dark ${styles['fixed-header-button']}`}>Go Back Home</button>}
+            </div>
+          )
+        :
+          (
+            <div className={styles.header}>
+              <h4 className={styles['header-content']} onClick={isHome ? scrollUp : goHome} >Plannedemic</h4>
+              { !isHome && <button onClick={goHome} className={`btn btn-sm btn-dark ${styles['fixed-header-button']}`}>Go Back Home</button>}
+            </div>
+          )
+
+      }      
       { isHome ?
         <div>
           <div className={styles.intro}>
@@ -70,7 +89,6 @@ function App() {
         </div>
         :
           <div className={styles['section-container']}>
-            <button onClick={goHome} className="btn btn-secondary">Back Home</button>
             <Sections param={type} articles={db.sections.filter(c => c.name == section)[0].types.filter(d => d.type == type)[0].articles}></Sections>
           </div>
         }
