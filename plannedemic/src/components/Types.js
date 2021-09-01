@@ -23,7 +23,7 @@ const Types = props => {
                                     })
                                 }
                                 {c.content.map(d => {
-                                    return (<p className={styles['content-url']}><a href={d}>{d}</a></p>)
+                                    return (<p className={styles['content-url']}><a target="_blank" href={d}>{d}</a></p>)
                                 })}
                             </div>
                         )
