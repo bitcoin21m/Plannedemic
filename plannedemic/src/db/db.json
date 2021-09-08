@@ -1010,9 +1010,15 @@
                             "content": ["https://www.medalerts.org/vaersdb/findfield.php?TABLE=ON&GROUP1=CAT&EVENTS=ON&VAX=COVID19"]
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Ignoring Natural Cures",
+            "types": [
                 {
-                    "id": 3,
+                    "id": 1,
                     "type": "Ivermectin",
                     "articles": [
                         {
