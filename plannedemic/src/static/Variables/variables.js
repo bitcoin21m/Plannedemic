@@ -66,6 +66,9 @@ function GetType (type) {
             return `There are certain identifiable steps to genocide that takes place. Please see below the 10 steps to genocide.`
         case "Government's Effect On You":
             return `Government is the most destructive organization on the planet. Their entire reason for existing is dependent upon people being dependent upon government. This very incentive structure gives government a reason to have a sick, poor, and dependent population. They are showing their true colors now. Forced lockdowns, forced masks, forced injections are by definition anti-American and anti-human. Just a reminder, there's a term called 'Democide'. It means genocide by governments. Governments have murdered more people in history than any other organization. There's only one difference between government and mafia: size.`
+        case "Ivermectin":
+            return `The huge onslaught from the media and government officals to try and discredit this drug has been nothing short of amazing. You think people would celebrate the fact that this drug is helping people, but no
+            they want you take their drug. Their experiment. Their money making drug. Think about that for a second.`
     }
 }
 
