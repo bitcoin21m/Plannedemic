@@ -1013,29 +1013,23 @@
                 },
                 {
                     "id": 3,
-                    "name": "Ignoring Natural Cures",
-                    "types": [
+                    "type": "Ivermectin",
+                    "articles": [
                         {
-                            "id": 1,
-                            "type": "Ivermectin",
-                            "articles": [
-                                {
-                                    "date": "08/22/2021",
-                                    "title": "FDA Downplaying Using Ivermectin As a Treatment",
-                                    "subTitle": [
-                                        "Of course they're gonna say this. Completely ignoring the great results it's had in India, other countries, and anecodotal accounts. It's also funny when they say they haven't approved the use of ivermectin as a treatment, but are totally fine with giving pharmaceutical companies emergency use for their experimental injection lol. Also, it's not like the FDA has any financial incentives to push the injection vs treating the illness. No not at all"
-                                    ],
-                                    "content": ["https://www.fda.gov/consumers/consumer-updates/why-you-should-not-use-ivermectin-treat-or-prevent-covid-19"]
-                                },
-                                {
-                                    "date": "08/27/2021",
-                                    "title": "Arkansas doctor under investigation for prescribing anti-parasitic drug thousands of times for Covid-19 despite FDA warning",
-                                    "subTitle": [
-                                        "I wonder why the government and pharmaceuticals are attacking ivermectin so hard. Maybe because they can't make billions on it and keep making people sick with their \"vaccines\""
-                                    ],
-                                    "content": ["https://www.cnn.com/2021/08/26/us/covid-ivermectin-arkansas-doctor/index.html"]
-                                }
-                            ]
+                            "date": "08/22/2021",
+                            "title": "FDA Downplaying Using Ivermectin As a Treatment",
+                            "subTitle": [
+                                "Of course they're gonna say this. Completely ignoring the great results it's had in India, other countries, and anecodotal accounts. It's also funny when they say they haven't approved the use of ivermectin as a treatment, but are totally fine with giving pharmaceutical companies emergency use for their experimental injection lol. Also, it's not like the FDA has any financial incentives to push the injection vs treating the illness. No not at all"
+                            ],
+                            "content": ["https://www.fda.gov/consumers/consumer-updates/why-you-should-not-use-ivermectin-treat-or-prevent-covid-19"]
+                        },
+                        {
+                            "date": "08/27/2021",
+                            "title": "Arkansas doctor under investigation for prescribing anti-parasitic drug thousands of times for Covid-19 despite FDA warning",
+                            "subTitle": [
+                                "I wonder why the government and pharmaceuticals are attacking ivermectin so hard. Maybe because they can't make billions on it and keep making people sick with their \"vaccines\""
+                            ],
+                            "content": ["https://www.cnn.com/2021/08/26/us/covid-ivermectin-arkansas-doctor/index.html"]
                         }
                     ]
                 }
