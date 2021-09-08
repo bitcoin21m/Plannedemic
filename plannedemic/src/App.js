@@ -62,12 +62,12 @@ function App() {
         <hr></hr>
         <div className={styles.links}>
           {
-            db != undefined && data.sections.map(c => {
+            db !== undefined && data.sections.map(c => {
               return (
                 <div key={c.id}><p className={styles['link-header']} key={c.id}>{c.name}</p>
                   <div className="">
-                      { db.sections.filter(d => d.name == c.name)[0] != undefined &&
-                        db.sections.filter(d => d.name == c.name)[0].types.map((t) => {
+                      { db.sections.filter(d => d.name === c.name)[0] !== undefined &&
+                        db.sections.filter(d => d.name === c.name)[0].types.map((t) => {
                           return <button onClick={(event) => typeHandler(event)} className={`btn btn-sm btn-secondary ${styles['button-mt']} ${styles['button-mr']}`} key={t.id}>{t.type}</button>
                         })
                       }
@@ -81,7 +81,7 @@ function App() {
         </div>
         :
           <div className={styles['section-container']}>
-            <Sections param={type} articles={db.sections.filter(c => c.name == section)[0].types.filter(d => d.type == type)[0].articles}></Sections>
+            <Sections param={type} articles={db.sections.filter(c => c.name === section)[0].types.filter(d => d.type === type)[0].articles}></Sections>
           </div>
         }
       </div>
