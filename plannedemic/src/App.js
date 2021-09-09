@@ -35,6 +35,17 @@ function App() {
 
   document.addEventListener("scroll", (event) => setHeaderFixed(() => window.pageYOffset > 10))
 
+  window.addEventListener("navigate", function (event, data) {
+    var direction = data.state.direction;
+    console.log("back")
+    if (direction == 'back') {
+      alert("back")
+    }
+    if (direction == 'forward') {
+      alert("forward")
+    }
+  });
+
   return (
     <div className={styles.App}>
       {

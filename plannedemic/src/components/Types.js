@@ -4,6 +4,17 @@ const Types = props => {
 
     let {type, articles, intro} = props;
 
+    window.addEventListener("navigate", function (event, data) {
+        var direction = data.state.direction;
+        console.log("back")
+        if (direction == 'back') {
+          alert("back")
+        }
+        if (direction == 'forward') {
+          alert("forward")
+        }
+      });
+
     return (
         <div className={styles['type-m']}>
             <h4 className={styles['type-heading']}>{type}</h4>
